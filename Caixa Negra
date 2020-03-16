@@ -1,0 +1,901 @@
+#EXTM3U caixapreta.pt
+
+# TV
+
+#EXTINF:-1 group-title="TV" tvg-id="RTP1" tvg-logo="http://caixapreta.pt/logos/RTP1.png",RTP 1
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RTP2" tvg-logo="http://caixapreta.pt/logos/RTP2.png",RTP 2
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="SIC" tvg-logo="http://caixapreta.pt/logos/SIC.png",SIC
+http://live.impresa.pt/live/sic/sic540p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="http://caixapreta.pt/logos/TVI.png",TVI
+https://video-auth5.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDIwIDU6NTk6NTcgUE0maGFzaF92YWx1ZT1md0JIaGxLbU5QVUFPeXB4OUJjcExRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWM2ZTUwMTQtZjA2OC00MmUzLThiMDgtOTFmMjJmMTJkMmVl/
+
+#EXTINF:-1 group-title="TV" tvg-id="RTP3" tvg-logo="http://caixapreta.pt/logos/RTP3.png",RTP 3
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="SIC Notícias" tvg-logo="http://caixapreta.pt/logos/SIC-Notícias.png",SIC Notícias
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="http://caixapreta.pt/logos/TVI24.png",TVI 24
+https://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDIwIDY6MDoyIFBNJmhhc2hfdmFsdWU9eWM5Ry8zL1V5cXhyZ0QrZEZNQmVSQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTNlYzA1MDMxLWFkZDQtNGNmZi05ODRhLTdjZjhlMjQ4ZWU1MA==/
+
+#EXTINF:-1 group-title="TV" tvg-id="ARTV" tvg-logo="http://caixapreta.pt/logos/ARTV.png",ARTV
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Euronews" tvg-logo="http://caixapreta.pt/logos/Euronews.png",Euronews
+http://euronews-pt-b9-cdn.hexaglobe.net/115126221f4aed9fab60986a53539350/5e6fbea1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RTP Memória" tvg-logo="http://caixapreta.pt/logos/RTP-Memória.png",RTP Memória
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RTP Internacional" tvg-logo="http://caixapreta.pt/logos/RTP-Internacional.png",RTP Internacional
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RTP África" tvg-logo="http://caixapreta.pt/logos/RTP-África.png",RTP África
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RTP Açores" tvg-logo="http://caixapreta.pt/logos/RTP-Açores.png",RTP Açores
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RTP Madeira" tvg-logo="http://caixapreta.pt/logos/RTP-Madeira.png",RTP Madeira
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Porto Canal" tvg-logo="http://caixapreta.pt/logos/Porto-Canal.png",Porto Canal
+https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1253641036.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="SIC Caras" tvg-logo="http://caixapreta.pt/logos/SIC-Caras.png",SIC Caras
+http://live.impresa.pt/live/siccaras/siccaras.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TVM.png",TVM
+http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TVMI.png",TVM Internacional
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TV Escola [Brazil]" tvg-logo="http://caixapreta.pt/logos/TV-Escola.png",TV Escola
+http://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b884736.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Futura [Brazil]" tvg-logo="http://caixapreta.pt/logos/Canal-Futura.png",Canal Futura
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="http://caixapreta.pt/logos/AgroBrasil-TV.png",AgroBrasil TV
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TV ALESP" tvg-logo="http://caixapreta.pt/logos/TV-ALESP.png",TV ALESP
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Web-TV-Minas.jpg",Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Rede Minas" tvg-logo="http://caixapreta.pt/logos/Rede-Minas.png",Rede Minas
+http://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Rede TV [Brazil]" tvg-logo="http://caixapreta.pt/logos/RedeTV.png",RedeTV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Rede-Atividade.png",Rede Atividade
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Rede-New.png",Rede New
+https://5a1c76baf08c0.streamlock.net/z474-live/aovivo/chunklist_w959333906.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/CBTV-Internacional.jpg",CBTV Internacional
+http://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="SBT [Brazil]" tvg-logo="http://caixapreta.pt/logos/SBT.png",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TV Rio Preto SJRP" tvg-logo="http://caixapreta.pt/logos/TV-Rio-Preto.png",TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TeleSUR" tvg-logo="http://caixapreta.pt/logos/Telesur.png",TeleSUR
+http://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Russia Today" tvg-logo="http://caixapreta.pt/logos/RT-News.png",RT News
+http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="rt-america" tvg-logo="http://caixapreta.pt/logos/RT-America.png",RT America
+http://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RT HD" tvg-logo="http://caixapreta.pt/logos/RT-UK.png",RT UK
+http://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RT Francia HD" tvg-logo="http://caixapreta.pt/logos/RT-France.png",RT France
+http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RT Español" tvg-logo="http://caixapreta.pt/logos/RT-Español.png",RT Español
+http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="rt-documentary" tvg-logo="http://caixapreta.pt/logos/RT-Documentary.png",RT Documentary
+http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="CGTN" tvg-logo="http://caixapreta.pt/logos/CGTN.png",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="CGTNFrancais.cn" tvg-logo="http://caixapreta.pt/logos/CGTN-Français.png",CGTN Français
+http://live.cgtn.com/1000f/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="CGTN Español" tvg-logo="http://caixapreta.pt/logos/CGTN-Español.png",CGTN Español
+http://live.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="CGTN Documentary HD" tvg-logo="http://caixapreta.pt/logos/CGTN-Documentary.png",CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="France 24 (I)" tvg-logo="http://caixapreta.pt/logos/France-24.png",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="France 24 (F)" tvg-logo="http://caixapreta.pt/logos/France-24.png",France 24 Français
+http://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Aljazeera" tvg-logo="http://caixapreta.pt/logos/Al-Jazeera.png",Al Jazeera English
+http://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="BBC World" tvg-logo="http://caixapreta.pt/logos/BBC-World-News.png",BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="SKY News" tvg-logo="http://caixapreta.pt/logos/Sky-News.png",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/ABC-News.png",ABC News
+http://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/WWSB_ABC_7.png",ABC 7 WWSB
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="WGN.us" tvg-logo="http://caixapreta.pt/logos/WGN-9.png",WGN 9
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="DW English" tvg-logo="http://caixapreta.pt/logos/Deutsche-Welle.png",Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="DW Espanol" tvg-logo="http://caixapreta.pt/logos/Deutsche-Welle.png",Deutsche Welle Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="DW Deutsch" tvg-logo="http://caixapreta.pt/logos/Deutsche-Welle.png",Deutsche Welle Deutsch
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="DW Deutsch" tvg-logo="http://caixapreta.pt/logos/Deutsche-Welle.png",Deutsche Welle Deutsch+
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TV5 Monde" tvg-logo="http://caixapreta.pt/logos/TV5-Monde-Info.png",TV5 Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="BFM TV" tvg-logo="http://caixapreta.pt/logos/BFM-TV.png",BFM TV
+#
+
+#EXTINF:-1 group-title="TV" tvg-id="HispanTV" tvg-logo="http://caixapreta.pt/logos/HispanTV.png",HispanTV
+http://5a61de8ed719d.streamlock.net:1935/live/smil:live.smil/chunklist_b644100_slen.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TVE 24H" tvg-logo="http://caixapreta.pt/logos/TVE-24h.png",TVE 24h
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0650_av-b.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="http://caixapreta.pt/logos/La1.png",La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="LA 2" tvg-logo="http://caixapreta.pt/logos/La2.png",La 2
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-b.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TV Galícia" tvg-logo="http://caixapreta.pt/logos/TVG.png",TV Galícia
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="ETB 1" tvg-logo="http://caixapreta.pt/logos/ETB-1.png",ETB 1
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="ETB 2" tvg-logo="http://caixapreta.pt/logos/ETB-2.png",ETB 2
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="ETB Sat" tvg-logo="http://caixapreta.pt/logos/EITB-EUS.png",EITB.EUS
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Canal Extremadura" tvg-logo="http://caixapreta.pt/logos/Canal-Extremadura.png",Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Sky TG24 HD" tvg-logo="http://caixapreta.pt/logos/Sky-TG24.png",Sky TG24
+http://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/stream6/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RaiNews24" tvg-logo="http://caixapreta.pt/logos/Rai-News-24.png",Rai News 24
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RaiMovie" tvg-logo="http://caixapreta.pt/logos/Rai-Movie.png",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RaiPremium" tvg-logo="http://caixapreta.pt/logos/Rai-Premium.png",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Locomotion.png",Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Cachipum-TV.png",Cachipum.TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Trace Urban" tvg-logo="http://caixapreta.pt/logos/TRACE-Urban.png",Trace Urban
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Trace Toca" tvg-logo="http://caixapreta.pt/logos/TRACE-Toca.png",Trace Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TRACE-Latina.png",TRACE Latina
+http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TRACE TROPICAL" tvg-logo="http://caixapreta.pt/logos/TRACE-Tropical.png",TRACE Tropical
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TraceAfrica" tvg-logo="http://caixapreta.pt/logos/TRACE-Africa.png",TRACE Africa
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TRACE-Ayiti.png",TRACE Ayiti
+http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TraceKitoko.fr" tvg-logo="http://caixapreta.pt/logos/TRACE-Kitoko.png",TRACE Kitoko
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TraceMziki" tvg-logo="http://caixapreta.pt/logos/TRACE-Mziki.png",TRACE Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TraceNaija.fr" tvg-logo="http://caixapreta.pt/logos/TRACE-Naija.png",TRACE Naija
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="BBLACK AFRICA" tvg-logo="http://caixapreta.pt/logos/BBlack-Africa.png",BBlack Africa
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/BBlack-Caribbean.png",BBlack Caribbean
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/BBlack-Classik.png",BBlack Classik
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="MCM TOP" tvg-logo="http://caixapreta.pt/logos/MCM-Top.png",MCM Top
+http://ott-cdn.ucom.am/s49/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="NRJ HITS" tvg-logo="http://caixapreta.pt/logos/NRJ-Hits-TV.png",NRJ Hits TV
+https://energytv.vedge.infomaniak.com/livecast/smil:energytv.smil/manifest.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/NRG-91-TV.png",NRG 91 TV
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Deejay TV" tvg-logo="http://caixapreta.pt/logos/DeeJay-TV.png",DeeJay TV
+http://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="DELUXE MUSIC TV" tvg-logo="http://caixapreta.pt/logos/Deluxe-Music-TV.png",Deluxe Music TV
+http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Indie-Wave.png",Indie Wave
+http://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Hit-TV.png",Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Music-Box.png",Music Box
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="4FUN.TV" tvg-id="4fun.pl" tvg-logo="http://caixapreta.pt/logos/4Fun-TV.png",4Fun.TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/FM-Italia-TV.png",FM Italia TV
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Colosal-TV.png",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/CMC.png",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream0.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/CMC.png",Country Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Motorvision-TV.png",Motorvision TV
+http://85.244.70.140:7000/play/a00t
+
+#EXTINF:-1 group-title="TV" tvg-id="Real Madrid TV" tvg-logo="http://caixapreta.pt/logos/RMTV.png",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/All-Sports-Brasil.png",All Sports Brasil
+http://59f1cbe63db89.streamlock.net:1935/dgrau/_definst_/dgrau/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/CDO.png",CDO - Canal del Deporte Olímpico
+http://edge1.cl.grupoz.cl:1935/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Red-Bull-TV.png",Red Bull TV 
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports" tvg-logo="http://caixapreta.pt/logos/Abu-Dhabi-Sports-1.png",Abu Dhabi Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports 2" tvg-logo="http://caixapreta.pt/logos/Abu-Dhabi-Sports-2.png",Abu Dhabi Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Dubai Sports" tvg-logo="http://caixapreta.pt/logos/Dubai-Sports.png",Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Dubai Sports 2" tvg-logo="http://caixapreta.pt/logos/Dubai-Sports-2.png",Dubai Sports 2
+http://dmi.mangomolo.com:1935/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Dubai Racing 1 HD" tvg-logo="http://caixapreta.pt/logos/Dubai-Racing.png",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Dubai-Racing.png",Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="ARD" tvg-logo="http://caixapreta.pt/logos/Das-Erste.png",Das Erste
+http://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_3776_av-p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FTV" tvg-logo="http://caixapreta.pt/logos/Fashion-TV.png",Fashion TV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="hd-fashion" tvg-logo="http://caixapreta.pt/logos/HD-Fashion-&-Lifestyle-TV.png",HD Fashion & Lifestyle TV
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Gong TV" tvg-logo="http://caixapreta.pt/logos/GONG.png",GONG
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Gong Max" tvg-logo="http://caixapreta.pt/logos/GONG-Max.png",GONG Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="KBS World" tvg-logo="http://caixapreta.pt/logos/KBS-World.png",KBS World
+http://cdn.nexttvnet.ru/hlsl/23/kbs_world/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi TV" tvg-logo="http://caixapreta.pt/logos/Abu-Dhabi-TV.png",Abu Dhabi TV
+http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Drama" tvg-logo="http://caixapreta.pt/logos/Abu-Dhabi-Drama-TV.png",Abu Dhabi Drama TV
+http://adtv.ercdn.net/addrama/addrama_720p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Dubai One" tvg-logo="http://caixapreta.pt/logos/Dubai-One.png",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="ICI Canal international HD" tvg-logo="http://caixapreta.pt/logos/ICI-Television.png",ICI Television
+http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/chunklist_b4160000_sleng.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Grand Lille TV" tvg-logo="http://caixapreta.pt/logos/Grand-Lille-TV.png",Grand Lille TV
+http://str81.creacast.com/grandlilletv/high/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Grand-Littoral-TV.png",Grand Littoral TV
+http://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_b1464000.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Alsace 20" tvg-logo="http://caixapreta.pt/logos/Alsace-20.png",Alsace 20
+http://live.alsace20.fr/live/alsace20/alsace20/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Akaku-TV-1.png",Akaku TV 1
+http://akaku.vod.castus.tv/live/ch1.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Akaku-TV-2.png",Akaku TV 2
+http://akaku.vod.castus.tv/live/ch2.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Akaku-TV-3.png",Akaku TV 3
+http://akaku.vod.castus.tv/live/ch3.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/D5-TV.png",D5 TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/D24.png",Diaspora 24
+rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Gabruu-TV.png",Gabruu TV 
+http://104.237.60.234/live/gabruutv.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Sabrang-TV.png",Sabrang TV
+http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
+
+
+# Praias Norte
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Leça da Palmeira
+http://video-auth1.iol.pt/beachcam/lecadapalmeira/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Matosinhos
+http://video-auth1.iol.pt/beachcam/matosinhos/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Espinho
+http://video-auth1.iol.pt/beachcam/espinho/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Esmoriz
+http://video-auth1.iol.pt/beachcam/esmoriz/chunks.m3u8
+
+# Praias Centro
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Furadouro
+http://video-auth1.iol.pt/beachcam/furadouro/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia da Torreira
+http://video-auth1.iol.pt/beachcam/torreira/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia da Barra
+http://video-auth1.iol.pt/beachcam/aveiro/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Costa Nova
+http://video-auth1.iol.pt/beachcam/costanova/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Vagueira - Casablanca
+http://video-auth1.iol.pt/beachcam/vagueiracasablanca/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Vagueira - Labrego
+http://video-auth1.iol.pt/beachcam/vagueira/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia de Mira
+http://video-auth1.iol.pt/beachcam/bcmira/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia da Tocha
+http://video-auth1.iol.pt/beachcam/tocha/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Figueira da Foz
+http://video-auth1.iol.pt/beachcam/figueiradafoz/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Figueira da Foz - Cabedelo
+http://video-auth1.iol.pt/beachcam/cabedelo/chunks.m3u8
+
+# Praias Costa Oeste
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Nazaré - Praia do Norte
+http://video-auth1.iol.pt/beachcam/canhaonazare/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Nazaré - Praia do Norte panorâmica
+http://video-auth1.iol.pt/beachcam/nazareparadonorte/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Nazaré - Praia da Vila
+http://video-auth1.iol.pt/beachcam/nazarepraiadavila/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Peniche - Lagide
+http://video-auth1.iol.pt/beachcam/lagide/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Peniche - Supertubos
+http://video-auth1.iol.pt/beachcam/supertubos/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Santa Cruz
+http://video-auth1.iol.pt/beachcam/santacruz/chunks.m3u8
+
+# Praias Mafra
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia da Calada
+http://video-auth1.iol.pt/beachcam/praiadacalada/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Ribeira D'Ilhas
+http://video-auth1.iol.pt/beachcam/ribeiradilhas/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Ericeira
+http://video-auth1.iol.pt/beachcam/ericeiraspots/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Matadouro + SkatePark
+http://video-auth1.iol.pt/beachcam/matadouroskatepark/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia dos Pescadores
+http://video-auth1.iol.pt/beachcam/bcpescadores/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Ericeira - Praia do Sul
+http://video-auth1.iol.pt/beachcam/praiadosulericeira/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Foz do Lizandro
+http://video-auth1.iol.pt/beachcam/fozdolizandro/chunks.m3u8
+
+# Praias de Sintra
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia Grande - Norte
+http://video-auth1.iol.pt/beachcam/praiagrande/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia Grande - Sul
+http://video-auth1.iol.pt/beachcam/praiagrande2/chunks.m3u8
+
+# Praias Cascais
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia do Guincho - Norte
+http://video-auth1.iol.pt/beachcam/praiaguinchonorte/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia do Guincho - Sul
+http://video-auth1.iol.pt/beachcam/praiaguinchosul/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Baía de Cascais
+http://video-auth1.iol.pt/beachcam/praiadospescadores/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia das Moitas
+http://video-auth1.iol.pt/beachcam/moitas/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Tamariz
+http://video-auth1.iol.pt/beachcam/tamariz/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",São João do Estoril
+http://video-auth1.iol.pt/beachcam/saojoaodoestoril/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",PDG - SkatePark
+http://video-auth1.iol.pt/beachcam/skateparkparquegeracoes/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",São Pedro do Estoril
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia das Avencas
+http://video-auth1.iol.pt/beachcam/praiadasavencas/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Parede
+http://video-auth1.iol.pt/beachcam/parede/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Carcavelos
+http://video-auth1.iol.pt/beachcam/carcavelos/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Carcavelos - Calhau
+http://video-auth1.iol.pt/beachcam/carcavelos2/chunks.m3u8
+
+# Praias Oeiras
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia da Torre
+http://video-auth1.iol.pt/beachcam/bctorre/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Santo Amaro
+http://video-auth1.iol.pt/beachcam/santoamaro/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Paço de Arcos
+http://video-auth1.iol.pt/beachcam/parcos/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Caxias
+http://video-auth1.iol.pt/beachcam/caxias/chunks.m3u8
+
+# Praias Almada
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Costa de Caparica - S. João
+http://video-auth1.iol.pt/beachcam/costacaparicasaojoao/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Costa de Caparica - CDS
+http://video-auth1.iol.pt/beachcam/costacaparicacds/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Costa de Caparica - Riviera
+http://video-auth1.iol.pt/beachcam/riviera/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Fonte da Telha
+http://video-auth1.iol.pt/beachcam/fontedatelha/chunks.m3u8
+
+# Praias Alentejo
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia do Carvalhal
+http://video-auth1.iol.pt/beachcam/carvalhal/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",S. Torpes
+http://video-auth1.iol.pt/beachcam/saotorpes/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Zambujeira do Mar
+http://video-auth1.iol.pt/beachcam/zambujeira/chunks.m3u8
+
+# Praias Algarve
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Arrifana
+http://video-auth1.iol.pt/beachcam/arrifana/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia da Luz
+http://video-auth1.iol.pt/beachcam/luz/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Meia Praia
+http://video-auth1.iol.pt/beachcam/meiapraia/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Alvor
+http://video-auth1.iol.pt/beachcam/alvor/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia da Rocha
+http://video-auth1.iol.pt/beachcam/praiadarocha/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Ferragudo - Praia Grande
+http://video-auth1.iol.pt/beachcam/ferragudo/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Carvoeiro
+http://video-auth1.iol.pt/beachcam/carvoeiro/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Senhora da Rocha e Praia Nova
+http://video-auth1.iol.pt/beachcam/bcigreja/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia da Galé
+http://video-auth1.iol.pt/beachcam/bcgale/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia do Evaristo
+http://video-auth1.iol.pt/beachcam/evaristo/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Praia do Peneco
+http://video-auth1.iol.pt/beachcam/praiadopeneco/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Vilamoura
+http://video-auth1.iol.pt/beachcam/vilamoura/chunks.m3u8
+
+# Praias Ilhas
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Jardim do Mar
+http://video-auth1.iol.pt/beachcam/madeirajardimdomar/chunks.m3u8
+
+# Lagos e rios
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Ferreira do Zêzere - Cable Park
+http://video-auth1.iol.pt/beachcam/bccableferreira/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Ferreira do Zêzere - Lago Azul
+http://video-auth1.iol.pt/beachcam/bclagoazul/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Ferreira do Zêzere - Dornes
+http://video-auth1.iol.pt/beachcam/bcdornes/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Lisboa - Cais do Sodré
+http://video-auth1.iol.pt/beachcam/caisdosodre/chunks.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="http://caixapreta.pt/logos/Meo-Beachcam.png",Lisboa - Belém
+http://video-auth1.iol.pt/beachcam/belem/chunks.m3u8
+
+
+# Eixo do Mal
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 12/3/2020
+https://video.sicnoticias.pt/sicnot/2020-03-13/f92d95fd-6178-4874-8f5e-fa1679a07c52_eixo-do-mal-clf-1203_20hv00188241/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 5/3/2020
+https://video.sicnoticias.pt/sicnot/2020-03-06/83d60e7c-78a6-41c3-b96a-2c182fd760aa_eixo-do-mal-0503-pgm_20hv00166459/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 27/2/2020
+https://video.sicnoticias.pt/sicnot/2020-02-28/a0a578e8-4f69-47fa-942f-f4654a873c9c_eixodomal-27-fev-pgm/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 20/2/2020
+https://video.sicnoticias.pt/sicnot/2020-02-23/b71daf74-d262-4253-81a8-bec968e61f5e_eixo-do-mal-pgm_20hv00129794/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 13/2/2020
+https://video.sicnoticias.pt/sicnot/2020-02-14/e721241a-5a41-4ae2-97b6-c439c29a729f_eixo-do-mal-13-02-2020-pgm_20hv00108901/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 7/2/2020
+https://video.sicnoticias.pt/sicnot/2020-02-07/41892ff9-6968-48d1-b24d-fca56cb9fc38_eixo-do-mal-pgm-hd-distribuic3a7c3a3o-06-02-2020_20hv00091075/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 31/1/2020
+https://video.sicnoticias.pt/sicnot/2020-01-31/30593717-5db1-4a60-95e4-483da47dff79_eixo-do-mal-30012020-pgm_20hv00073786/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 24/1/2020
+https://video.sicnoticias.pt/sicnot/2020-01-24/241e87af-9ed0-42b4-a7ca-057cf12db474_eixo-do-mal-2301-pgm_20hv00054804/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 17/1/2020
+https://video.sicnoticias.pt/sicnot/2020-01-17/4cf8def7-d398-4e09-b25d-c519488a814f_eixo-do-mal-pgm_20hv00037230/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 10/1/2020
+https://video.sicnoticias.pt/sicnot/2020-01-10/d67da1e7-5b39-40bd-b749-414a58d6495e_eixo-do-mal-pgm_20hv00019764/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 3/1/2020
+https://video.sicnoticias.pt/sicnot/2020-01-03/e22a7182-8117-4dc7-8e25-7b86f709b21a_eix-00715-eixo-do-mal---ser-12-ep-0001-02-01-2020.mpg/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 26/12/2019
+https://video.sicnoticias.pt/sicnot/2019-12-20/2379ae9f-3831-44a4-9108-d689e4791813_eixo-do-mal-2612_19hv00871208/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 20/12/2019
+https://video.sicnoticias.pt/sicnot/2019-12-20/e5084caa-cc6b-441c-9a8a-a44f3e3eaef4_eixo-do-mal-pgm_19hv00868793/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 12/12/2019
+https://video.sicnoticias.pt/sicnot/2019-12-13/2174225e-5043-47b9-a3a1-8d6ba93c8b35_eixo-do-mal-12122019-pgm_19hv00851615/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 5/12/2019
+https://video.sicnoticias.pt/sicnot/2019-12-06/cb1de4c5-efc0-4dfd-9989-65f5ef285c12_eixo-do-mal-0512-pgm_19hv00832317/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 28/11/2019
+https://video.sicnoticias.pt/sicnot/2019-11-29/fe341442-8e0c-49cd-8a70-980299537102_eixo-do-mal-28-11-pgm/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 22/11/2019
+https://video.sicnoticias.pt/sicnot/2019-11-22/4ead5314-5020-4464-99dc-e92209090d54_eixo-do-mal-pgm_19hv00798722/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 14/11/2019
+https://videos.impresa.pt/sicnot/2019-11-15/737e44a6-d1d7-47e7-be12-180bf4c320e2_pgm-eixo-do-mal-1411_19hv00782365/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 1/11/2019
+https://videos.impresa.pt/sicnot/2019-11-01/52a33e32-a15d-4a5b-911d-0ba4a8b720cc_eixo-do-mal-pgm-3110_19hv00745065/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 24/10/2019
+https://videos.impresa.pt/sicnot/2019-10-25/2462db2f-0d04-412b-97e0-076365d196ab_eixo-do-mal-pgm-com-logo-24-out_0/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 18/10/2019
+https://videos.impresa.pt/sicnot/2019-10-18/8013ab16-bdf3-48b3-b9b3-02e88060ed12_eixo-do-mal-pgm-hd-distribuic3a7c3a3o-17-10-2019_19hv00708063/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 11/10/2019
+https://videos.impresa.pt/sicnot/2019-10-11/9a0fadf9-9efe-44c9-b350-9a967df7b5cd_eixo-do-mal-pgm_19hv00690595/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 8/10/2019
+https://videos.impresa.pt/sicnot/2019-10-08/c4893ffe-034b-42af-bbd3-f229b0d8d68e_eixo-do-mal-especial-eleicoes_19hv00678142/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 4/10/2019
+https://videos.impresa.pt/sicnot/2019-10-04/2d579d9e-4bef-46e7-9fb5-084f74f6dd62_eixo-do-mal-pgm-hd-distribuic3a7c3a3o-03-10-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 27/9/2019 2/2
+https://videos.impresa.pt/sicnot/2019-09-27/b9430820-eccf-4fb0-966b-5e08e2944101_eixo-1209_19hv00657433/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 27/9/2019 1/2
+https://videos.impresa.pt/sicnot/2019-09-27/799ed51b-d3f2-40bc-9fac-07ccab8ca1d4_eixo-0509_19hv00657423/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 19/09/2019
+https://videos.impresa.pt/sicnot/2019-09-20/23dc10c8-fa40-4b47-899b-edab00de37b8_eixo-do-mal-pgm-1909/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 25/7/2019
+https://videos.impresa.pt/sicnot/2019-07-26/06ab9a0e-ff89-48c4-b971-8aee42430074_eixo-do-mal-2507-pgm_19hv00528160/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 18/7/2019
+https://videos.impresa.pt/sicnot/2019-07-19/11311fc0-d97e-426e-9758-6eaa750f4fd0_eixo-do-mal-pgm-1807/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 11/7/2019
+https://videos.impresa.pt/sicnot/2019-07-12/ce0731e6-c7db-46c9-8f61-c868942172e0_eixo-do-mal-11-07-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 4/7/2019
+https://videos.impresa.pt/sicnot/2019-07-05/0360f4af-77f6-4a73-a6b7-c1a340801715_eixo-do-mal-04-07-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 27/6/2019
+https://videos.impresa.pt/sicnot/2019-06-28/d1d75347-7cdb-4f00-b170-20bcd1d40917_eixo-do-mal-27-06-2019-pgm_19hv00461284/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 20/6/2019
+https://videos.impresa.pt/sicnot/2019-06-21/cb50ed99-7081-4e08-93f5-59b07efe4991_eixo-do-mal-2006_19hv00443740/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 13/6/2019
+https://videos.impresa.pt/sicnot/2019-06-14/70f3dc55-02e1-40a9-94c6-c5d4a3ef9211_eixo-do-mal-1306-pgm/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 6/6/2019
+https://videos.impresa.pt/sicnot/2019-06-07/7f75dc8b-c54d-4f43-af60-016fcc07aedf_eixo-do-mal-0606_19hv00407549/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 30/5/2019
+https://videos.impresa.pt/sicnot/2019-05-31/3d695d45-5396-4072-905c-a66c73760de8_eixo-do-mal-30-05-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 26/5/2019
+https://videos.impresa.pt/sicnot/2019-05-30/de93325b-ce0c-45be-8dea-67f5b75aacfd_eixo-do-mal-26-05-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 16/5/2019
+https://videos.impresa.pt/sicnot/2019-05-17/ee37f323-4472-4b8a-b997-ace46fb70dd8_eixo-do-mal-16-05-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 9/5/2019
+http://videos.impresa.pt/sicnot/2019-05-10/852882b0-e0df-4874-b3b3-becac47b1742_eixo-do-mal-09.05_19hv00322232/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 2/5/2019
+http://videos.impresa.pt/sicnot/2019-05-03/6800b08e-b39f-4674-b82d-15996a390912_eixo-do-mal-02-05-2019_0/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 25/4/2019
+http://videos.impresa.pt/sicnot/2019-04-26/0ccf32b5-42c3-492c-9a3f-687ec3ad001f_eixo-do-mal-25-04-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 20/4/2019
+http://videos.impresa.pt/sicnot/2019-04-20/8a222be1-6c48-4d0a-80a8-9ad9659c359e_eixo-do-mal-18-04-2019-pgm_19hv00265383/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 11/04/2019
+http://videos.impresa.pt/sicnot/2019-04-12/4895ff03-6656-4195-b442-4694ff7fd510_eixo-do-mal-11-04-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 05/4/2019
+http://videos.impresa.pt/sicnot/2019-04-05/415a36e7-9719-47ae-8df1-eab77dff1f3a_eixo-do-mal-04-04-2019/net_wide
+
+#EXTINF:-1 group-title="Eixo do Mal" tvg-logo="http://caixapreta.pt/logos/Eixo-do-Mal.jpg",Eixo do Mal - 28/3/2019
+http://videos.impresa.pt/sicnot/2019-03-29/7cb2750d-1216-4d67-a750-c6aa6c562bcf_eixo-do-mal-28-03/net_wide
+
+
+# Rádios
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png",Rádio  Antena 1
+http://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8|Referer=http://www.rtp.pt
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena2.png",Rádio  Antena 2
+http://streaming-live.rtp.pt/liveradio/antena280a/chunklist.m3u8|Referer=http://www.rtp.pt
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png",Rádio  Antena 3
+http://streaming-live.rtp.pt/liveradio/antena380a/chunklist.m3u8|Referer=http://www.rtp.pt
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/rdpInternacional_positivo_horiz_RGB.png",Rádio RDP Internacional
+http://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist.m3u8|Referer=http://www.rtp.pt
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/rdpAfrica_positivo_horiz_RGB.png",Rádio RDP África
+http://streaming-live.rtp.pt/liveradio/rdpafrica80a/chunklist.m3u8|Referer=http://www.rtp.pt
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png",Rádio TSF
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrr1734952d.png",Rádio Renascença
+http://19553.live.streamtheworld.com/RADIO_RENASCENCAAAC
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png",Rádio Cidade FM
+http://mcrwowza4.mcr.iol.pt/cidade/ngrp:cidade.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",Rádio Mega Hits
+http://19553.live.streamtheworld.com:80/MEGA_HITS_SC
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Rádio Comercial
+http://mcrwowza4.mcr.iol.pt/comercial/ngrp:comercial.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrfm7695d64b.png",Rádio RFM
+http://19573.live.streamtheworld.com/RFMAAC
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",Rádio Super FM
+http://5.9.14.150:9302/;&13202692901&duration=99999&id=scplayer&autostart=true
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://djnuno.com/wp-content/uploads/2011/05/Logo-Orbital-3D_2.png",Rádio Orbital
+http://stream.radio.com.pt:8401/;stream/1
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83943q.png",Rádio Oxigénio
+http://centova.radios.pt:9498
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-smooth-fm_0.png",Rádio Smooth FM
+http://mcrwowza5.mcr.iol.pt/smooth/ngrp:smooth.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/vodafone_logo-certo1.jpg",Rádio Vodafone FM
+http://mcrwowza4.mcr.iol.pt/vodafone/ngrp:vodafone.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://cdn.nexttv.sapo.pt/user/channels/33/c5f/8623/logodf0f58d2e1b083cc1c467dc57b19130d-200x200.png",Rádio MEO Music
+http://centova.radios.pt:8495/;listen.pls
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/M80_Radio.svg/1200px-M80_Radio.svg.png",Rádio M80
+http://mcrwowza6.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.radiot.fi/img/channel-logos/radio-nostalgia.png",Rádio Nostalgia
+http://centova.radios.pt:8435
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png",Rádio Amália
+http://link.radios.pt/amalia?1487014253471.mp3
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.radiomiudos.pt/img/logo2.png",Rádio Miúdos
+http://radiomiudos.out.airtime.pro:8000/radiomiudos_a
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://media.rtp.pt/refresca/wp-content/themes/refresca/includes/img/logo_RadioZigZag.png",Rádio Zig Zag
+http://streaming-live.rtp.pt/liveradio/zigzag80a/chunklist.m3u8|Referer=http://www.rtp.pt
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.radioclube-penafiel.pt/i/logo_radioclubepenafiel.png",Rádio Clube Penafiel
+http://centova.radios.pt:9476/;
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.radionovaera.pt/wp-content/uploads/2015/12/logo.png",Rádio Nova Era
+http://centova.radios.pt:9478/
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://i.imgur.com/0vmzhdz.png",Rádio Regional
+http://streaming.radioregional.pt:8002
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://i.imgur.com/0vmzhdz.png",Rádio Regional [Alternativa]
+http://streaming.radioregional.pt:8000
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://i.imgur.com/tKrKYOR.png",Rádio Regional Rock
+http://streaming.radioregional.pt:8046
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://i.imgur.com/hUrEKgu.png",Rádio Regional Dance & DJS
+http://streaming.radioregional.pt:8064
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://i.imgur.com/aPZ5joL.png",Rádio Regional Love Songs
+http://streaming.radioregional.pt:8058
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://i.imgur.com/1zntJ9S.png",Rádio Regional Oldies
+http://streaming.radioregional.pt:8052
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://i.imgur.com/x48qEMX.png",Rádio Regional Portuguesa
+http://streaming.radioregional.pt:8040
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.marcoensefm.com/wp-content/themes/marcoense-fm/images/logo.png",Marcoense FM
+http://137.74.160.250:8000/;stream/1
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.radiolinear.pt/img/logo.png",Rádio Linear
+http://213.136.92.8:8022/;
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png",Nove3Cinco
+http://centova.radios.pt:9522/;
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.radiosines.com/wp-content/uploads/2015/02/logo-e1423149088399.png",Rádio Sines
+http://176.9.88.190:9580
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.radioregionaldearouca.com/site/wp-content/uploads/2015/06/logo-radio1.png",Rádio Regional Arouca
+http://centova.radio.com.pt:8485/;
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Cascais.jpg",Rádio Cascais
+http://5.9.14.150:9300/;
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.terranova.pt/sites/default/files/logotipoterranova.png",Rádio Terra Nova
+http://centova.radios.pt:9404/stream
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://radionoar.pt/wp-content/uploads/2017/02/Radio-NoAr_156.png",Rádio NoAr
+http://centova.radio.com.pt:9472/;
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://radioportuense.com/wp-content/uploads/2017/01/oie_dUXe4SR8xHI0.png",Rádio Portuense
+http://88.198.72.46:9848/;
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://i.imgur.com/tHi5ewx.png",Rádio Monsanto
+http://centova.radio.com.pt:9424/;
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.radiocastelobranco.pt/css/site/img/logo.png",Rádio Castelo Branco
+http://centova.radio.com.pt:9462/;
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.radiovaledominho.com/wp-content/uploads/2017/09/logo_rvm-01.png",Rádio Vale do Minho
+http://centova.radio.com.pt:9434/;
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.hiper.fm/images/hiper_logo_red.png",Hiper FM
+http://85.25.73.243:10460/;stream/1
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://radiohertz.pt/wp-content/uploads/2015/03/Logo-R%C3%A1dio-Hertz-2015-03-261-300x117.png",Rádio Hertz
+http://213.136.92.8:8030/stream
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.apradiodifusao.pt/xiiicongresso/images/radios/radioportalegre.png",Rádio Portalegre
+http://centova.radios.pt:9492/stream
+
+#EXTINF:-1 group-title="Rádios" radio="true" tvg-logo="http://www.jm-madeira.pt/dist/images/JM_logo-01.png",JM Madeira
+http://194.38.136.130:8000/?type=http
