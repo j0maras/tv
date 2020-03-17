@@ -1,85 +1,187 @@
 #EXTM3U
-#EXTINF:-1,LOW: RTP 1
-http://ab1pro.co:8080/alfredo123/alfredo123/35139
-#EXTINF:-1,LOW: RTP 2
-http://ab1pro.co:8080/alfredo123/alfredo123/35140
-#EXTINF:-1,LOW: RTP 3
-http://ab1pro.co:8080/alfredo123/alfredo123/35242
-#EXTINF:-1,LOW: SIC
-http://ab1pro.co:8080/alfredo123/alfredo123/35141
-#EXTINF:-1,LOW: TVI 
-http://ab1pro.co:8080/alfredo123/alfredo123/35142
-#EXTINF:-1,LOW: TVI 24
-http://ab1pro.co:8080/alfredo123/alfredo123/35143
-#EXTINF:-1,LOW: SIC NOTICIAS 
-http://ab1pro.co:8080/alfredo123/alfredo123/35145
-#EXTINF:-1,LOW: CMTV 
-http://ab1pro.co:8080/alfredo123/alfredo123/35146
-#EXTINF:-1,LOW: PORTO CANAL
-http://ab1pro.co:8080/alfredo123/alfredo123/36095
-#EXTINF:-1,LOW: TVI FICCAO
-http://ab1pro.co:8080/alfredo123/alfredo123/35144
-#EXTINF:-1,LOW: SPORT TV 1
-http://ab1pro.co:8080/alfredo123/alfredo123/35148
-#EXTINF:-1,LOW: SPORT TV 2
-http://ab1pro.co:8080/alfredo123/alfredo123/35149
-#EXTINF:-1,LOW: SPORT TV 3
-http://ab1pro.co:8080/alfredo123/alfredo123/35150
-#EXTINF:-1,LOW: SPORT TV 4
-http://ab1pro.co:8080/alfredo123/alfredo123/35151
-#EXTINF:-1,LOW: SPORT TV 5
-http://ab1pro.co:8080/alfredo123/alfredo123/35152
-#EXTINF:-1,LOW:  ELEVEN SPORTS 1 
-http://ab1pro.co:8080/alfredo123/alfredo123/35153
-#EXTINF:-1,LOW: ELEVEN SPORTS 2
-http://ab1pro.co:8080/alfredo123/alfredo123/35154
-#EXTINF:-1,LOW: ELEVEN SPORTS 3
-http://ab1pro.co:8080/alfredo123/alfredo123/36100
-#EXTINF:-1,LOW: ELEVEN SPORTS 4
-http://ab1pro.co:8080/alfredo123/alfredo123/36101
-#EXTINF:-1,LOW: ELEVEN SPORTS 5
-http://ab1pro.co:8080/alfredo123/alfredo123/36102
-#EXTINF:-1,LOW: ELEVEN SPORTS 6
-http://ab1pro.co:8080/alfredo123/alfredo123/36103
-#EXTINF:-1,LOW: BTV 
-http://ab1pro.co:8080/alfredo123/alfredo123/35155
-#EXTINF:-1,LOW: TVI REALITY 
-http://ab1pro.co:8080/alfredo123/alfredo123/35147
-#EXTINF:-1,LOW: DISNEY JUNIOR
-http://ab1pro.co:8080/alfredo123/alfredo123/36099
-#EXTINF:-1,LOW: PANDA
-http://ab1pro.co:8080/alfredo123/alfredo123/35174
-#EXTINF:-1,LOW: DISNEY CHANNEL
-http://ab1pro.co:8080/alfredo123/alfredo123/35173
-#EXTINF:-1,LOW: GLOBO
-http://ab1pro.co:8080/alfredo123/alfredo123/36104
-#EXTINF:-1,LOW: HOLLYWOOD
-http://ab1pro.co:8080/alfredo123/alfredo123/35156
-#EXTINF:-1,LOW: CINEMUNDO
-http://ab1pro.co:8080/alfredo123/alfredo123/35157
-#EXTINF:-1,LOW: TVCINE TOP
-http://ab1pro.co:8080/alfredo123/alfredo123/35158
-#EXTINF:-1,LOW: TVCINE EDITION
-http://ab1pro.co:8080/alfredo123/alfredo123/35159
-#EXTINF:-1,LOW: TV SERIES
-http://ab1pro.co:8080/alfredo123/alfredo123/35162
-#EXTINF:-1,LOW: SYFY
-http://ab1pro.co:8080/alfredo123/alfredo123/35163
-#EXTINF:-1,LOW: FOX MOVIES
-http://ab1pro.co:8080/alfredo123/alfredo123/35164
-#EXTINF:-1,LOW: FOX
-http://ab1pro.co:8080/alfredo123/alfredo123/35165
-#EXTINF:-1,LOW: FOX LIFE
-http://ab1pro.co:8080/alfredo123/alfredo123/35166
-#EXTINF:-1,LOW: FOX CRIME 
-http://ab1pro.co:8080/alfredo123/alfredo123/35167
-#EXTINF:-1,LOW: FOX COMEDY
-http://ab1pro.co:8080/alfredo123/alfredo123/35168
-#EXTINF:-1,LOW: AXN WHITE 
-http://ab1pro.co:8080/alfredo123/alfredo123/35169
-#EXTINF:-1,LOW: AXN 
-http://ab1pro.co:8080/alfredo123/alfredo123/35170
-#EXTINF:-1,LOW: AXN BLACK
-http://ab1pro.co:8080/alfredo123/alfredo123/35171
-#EXTINF:-1,LOW: AMC 
-http://ab1pro.co:8080/alfredo123/alfredo123/35172
+#EXTINF:-1,PT | TVI
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16014
+#EXTINF:-1,PT | TVC 1
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16015
+#EXTINF:-1,PT | TVC 2
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16016
+#EXTINF:-1,PT | TVC 3
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16017
+#EXTINF:-1,PT | TVC 4
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16018
+#EXTINF:-1,PT | TVI 24
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16019
+#EXTINF:-1,PT | TVI REALITY
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16020
+#EXTINF:-1,PT | SIC
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16021
+#EXTINF:-1,PT | SIC RADICAL
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16022
+#EXTINF:-1,PT | SIC NOTICIAS
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16023
+#EXTINF:-1,PT | SIC Kids
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16024
+#EXTINF:-1,PT | SIC MULHER
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16025
+#EXTINF:-1,PT | SIC CARAS
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16026
+#EXTINF:-1,PT | RTP 1
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16027
+#EXTINF:-1,PT | RTP 2
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16028
+#EXTINF:-1,PT | RTP Memoria
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16029
+#EXTINF:-1,PT | RTP Madeira
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16030
+#EXTINF:-1,PT | RTP Africa
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16031
+#EXTINF:-1,PT | RTP Acores
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16032
+#EXTINF:-1,PT | SPORT TV 1
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16033
+#EXTINF:-1,PT | SPORT TV 2
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16034
+#EXTINF:-1,PT | SPORT TV 3
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16035
+#EXTINF:-1,PT | SPORT TV 4
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16036
+#EXTINF:-1,PT | SPORT TV 5
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16037
+#EXTINF:-1,PT | Benfica Tv 1
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16038
+#EXTINF:-1,PT | Benfica Tv 2
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16039
+#EXTINF:-1,PT | EUROSPORT 1
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16040
+#EXTINF:-1,PT | Sport TV 1 HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16041
+#EXTINF:-1,PT | Motors TV
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16042
+#EXTINF:-1,PT | Eurosport
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16043
+#EXTINF:-1,PT | E Entertainment
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16044
+#EXTINF:-1,PT | SYFY HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16045
+#EXTINF:-1,PT | MOV HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16046
+#EXTINF:-1,PT | Fox Crime
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16047
+#EXTINF:-1,PT | FOX MOVE
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16048
+#EXTINF:-1,PT | AXN HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16049
+#EXTINF:-1,PT | AXN WHITE HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16050
+#EXTINF:-1,PT | AXN Black HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16051
+#EXTINF:-1,PT | TV Globo Premium
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16052
+#EXTINF:-1,PT | Sporting TV
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16053
+#EXTINF:-1,PT | GLOBO TV
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16054
+#EXTINF:-1,PT | VH1
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16055
+#EXTINF:-1,PT | PANDA BIGGS
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16056
+#EXTINF:-1,PT | Odisseia
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16057
+#EXTINF:-1,PT | Nat Geo Wild
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16058
+#EXTINF:-1,PT | DISCOVERY CHANNEL
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16059
+#EXTINF:-1,PT | CM TV
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16060
+#EXTINF:-1,PT | Fox L
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16061
+#EXTINF:-1,PT | Econ mico TV
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16062
+#EXTINF:-1,PT | 24 KITCHEN
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16063
+#EXTINF:-1,PT | A E
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16064
+#EXTINF:-1,PT | AXN
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16065
+#EXTINF:-1,PT | CACA PESCA
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16066
+#EXTINF:-1,PT | CANAL Q
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16067
+#EXTINF:-1,PT | CBS REALITY
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16069
+#EXTINF:-1,PT | Discovery HD Showcase
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16070
+#EXTINF:-1,PT | DISNEY JUNIOR
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16071
+#EXTINF:-1,PT | Fox Comedy
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16072
+#EXTINF:-1,PT | FOX LIFE
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16073
+#EXTINF:-1,PT | FOX TV
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16074
+#EXTINF:-1,PT | FUEL TV
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16075
+#EXTINF:-1,PT | HOLLYWOOD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16076
+#EXTINF:-1,PT | MOTORVISION TV
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16077
+#EXTINF:-1,PT | PFC
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16078
+#EXTINF:-1,PT | PORTO CANAL
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16079
+#EXTINF:-1,PT | TLC
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16080
+#EXTINF:-1,PT | TOUROS TV
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16081
+#EXTINF:-1,PT | TV CINE 1 HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16082
+#EXTINF:-1,PT | TV CINE 2 HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16083
+#EXTINF:-1,PT | TV CINE 3 HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16084
+#EXTINF:-1,PT | TV CINE 4
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16085
+#EXTINF:-1,PT | Afro Music
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16086
+#EXTINF:-1,PT | BTV 1 HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16087
+#EXTINF:-1,PT | MCM TOP
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16088
+#EXTINF:-1,PT | MTV Dance
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16089
+#EXTINF:-1,PT | TV RECORD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16090
+#EXTINF:-1,PT | Chelsea TV
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16091
+#EXTINF:-1,PT | Canal de Historia
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16092
+#EXTINF:-1,PT | NICKELODEON
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16093
+#EXTINF:-1,PT | PANDA HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16094
+#EXTINF:-1,PT | Nat Geographic
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16095
+#EXTINF:-1,PT | RTP 3
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16096
+#EXTINF:-1,PT | TVI Ficc o
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16097
+#EXTINF:-1,PT | CARTON NETWORK
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16098
+#EXTINF:-1,PT | CINE MUNDO HD
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16099
+#EXTINF:-1,PT | TVC SERIES
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16100
+#EXTINF:-1,PT | FOX MOVIES
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16101
+#EXTINF:-1,PT | MTV PORTUGAL
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16102
+#EXTINF:-1,PT | A Bola TV
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16103
+#EXTINF:-1,PT | AMC
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16104
+#EXTINF:-1,PT | Baby TV
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16105
+#EXTINF:-1,PT | JimJam EMEA
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16106
+#EXTINF:-1,PT | Disney Channel
+http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16107
