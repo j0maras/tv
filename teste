@@ -1,357 +1,267 @@
 #EXTM3U
-#EXTINF:-1,PT | RTP 1
-http://89.248.174.133:8000/andres/andres/4403
-#EXTINF:-1,PT | RTP 1 HD
-http://89.248.174.133:8000/andres/andres/4404
-#EXTINF:-1,PT | RTP 1 FHD
-http://89.248.174.133:8000/andres/andres/4405
-#EXTINF:-1,PT | RTP 2
-http://89.248.174.133:8000/andres/andres/4406
-#EXTINF:-1,PT | RTP 2 HD
-http://89.248.174.133:8000/andres/andres/4407
-#EXTINF:-1,PT | RTP 2 FHD
-http://89.248.174.133:8000/andres/andres/4408
-#EXTINF:-1,PT | SIC
-http://89.248.174.133:8000/andres/andres/4409
-#EXTINF:-1,PT | SIC HD
-http://89.248.174.133:8000/andres/andres/4410
-#EXTINF:-1,PT | SIC FHD
-http://89.248.174.133:8000/andres/andres/4411
-#EXTINF:-1,PT | TVI
-http://89.248.174.133:8000/andres/andres/4412
-#EXTINF:-1,PT | TVI HD
-http://89.248.174.133:8000/andres/andres/4413
-#EXTINF:-1,PT | TVI FHD
-http://89.248.174.133:8000/andres/andres/4414
-#EXTINF:-1,PT | TVI FICÇÃO
-http://89.248.174.133:8000/andres/andres/4415
-#EXTINF:-1,PT | TVI REALITY
-http://89.248.174.133:8000/andres/andres/4416
-#EXTINF:-1,PT | SIC MULHER
-http://89.248.174.133:8000/andres/andres/4417
-#EXTINF:-1,PT | SIC MULHER HD
-http://89.248.174.133:8000/andres/andres/4418
-#EXTINF:-1,PT | SIC CARAS
-http://89.248.174.133:8000/andres/andres/4419
-#EXTINF:-1,PT | SIC RADICAL
-http://89.248.174.133:8000/andres/andres/4420
-#EXTINF:-1,PT | SIC RADICAL HD
-http://89.248.174.133:8000/andres/andres/4421
-#EXTINF:-1,PT | CANAL Q
-http://89.248.174.133:8000/andres/andres/4422
-#EXTINF:-1,PT | RTP AFRICA
-http://89.248.174.133:8000/andres/andres/4423
-#EXTINF:-1,PT | RTP ACORES
-http://89.248.174.133:8000/andres/andres/4424
-#EXTINF:-1,PT | RTP MEMÓRIA
-http://89.248.174.133:8000/andres/andres/4425
-#EXTINF:-1,PT | RTP INTERNACIONAL
-http://89.248.174.133:8000/andres/andres/4426
-#EXTINF:-1,PT | RTP MADEIRA
-http://89.248.174.133:8000/andres/andres/4427
-#EXTINF:-1,PT | SIC NOTICIAS
-http://89.248.174.133:8000/andres/andres/4429
-#EXTINF:-1,PT | SIC NOTICIAS HD
-http://89.248.174.133:8000/andres/andres/4430
-#EXTINF:-1,PT | TVI 24
-http://89.248.174.133:8000/andres/andres/4431
-#EXTINF:-1,PT | CMTV
-http://89.248.174.133:8000/andres/andres/4432
-#EXTINF:-1,PT | CMTV HD
-http://89.248.174.133:8000/andres/andres/4433
-#EXTINF:-1,PT | RTP 3
-http://89.248.174.133:8000/andres/andres/4434
-#EXTINF:-1,PT | ARTV
-http://89.248.174.133:8000/andres/andres/4435
-#EXTINF:-1,PT | CANAL 11 HD
-http://89.248.174.133:8000/andres/andres/4437
-#EXTINF:-1,PT | CANAL 11 FHD
-http://89.248.174.133:8000/andres/andres/4438
-#EXTINF:-1,PT | SPORT TV NBA HD
-http://89.248.174.133:8000/andres/andres/4439
-#EXTINF:-1,PT | SPORT TV
-http://89.248.174.133:8000/andres/andres/4440
-#EXTINF:-1,PT | SPORT TV FHD
-http://89.248.174.133:8000/andres/andres/4441
-#EXTINF:-1,PT | SPORT TV 1
-http://89.248.174.133:8000/andres/andres/4442
-#EXTINF:-1,PT | SPORT TV 1 HD
-http://89.248.174.133:8000/andres/andres/4443
-#EXTINF:-1,PT | SPORT TV 1 FHD
-http://89.248.174.133:8000/andres/andres/4444
-#EXTINF:-1,PT | SPORT TV 2
-http://89.248.174.133:8000/andres/andres/4445
-#EXTINF:-1,PT | SPORT TV 2 HD
-http://89.248.174.133:8000/andres/andres/4446
-#EXTINF:-1,PT | SPORT TV 2 FHD
-http://89.248.174.133:8000/andres/andres/4447
-#EXTINF:-1,PT | SPORT TV 3
-http://89.248.174.133:8000/andres/andres/4448
-#EXTINF:-1,PT | SPORT TV 3 HD
-http://89.248.174.133:8000/andres/andres/4449
-#EXTINF:-1,PT | SPORT TV 3 FHD
-http://89.248.174.133:8000/andres/andres/4450
-#EXTINF:-1,PT | SPORT TV 4
-http://89.248.174.133:8000/andres/andres/4451
-#EXTINF:-1,PT | SPORT TV 4 HD
-http://89.248.174.133:8000/andres/andres/4452
-#EXTINF:-1,PT | SPORT TV 5
-http://89.248.174.133:8000/andres/andres/4453
-#EXTINF:-1,PT | SPORT TV 5 HD
-http://89.248.174.133:8000/andres/andres/4454
-#EXTINF:-1,PT | ELEVEN SPORT 1 LB
-http://89.248.174.133:8000/andres/andres/4455
-#EXTINF:-1,PT | ELEVEN SPORT 1
-http://89.248.174.133:8000/andres/andres/4456
-#EXTINF:-1,PT | ELEVEN SPORT 1 HD
-http://89.248.174.133:8000/andres/andres/4457
-#EXTINF:-1,PT | ELEVEN SPORT 2 LB
-http://89.248.174.133:8000/andres/andres/4458
-#EXTINF:-1,PT | ELEVEN SPORT 2 HD
-http://89.248.174.133:8000/andres/andres/4459
-#EXTINF:-1,PT | ELEVEN SPORT 3 LB
-http://89.248.174.133:8000/andres/andres/4460
-#EXTINF:-1,PT | ELEVEN SPORT 3 HD
-http://89.248.174.133:8000/andres/andres/4461
-#EXTINF:-1,PT | ELEVEN SPORT 4 LB
-http://89.248.174.133:8000/andres/andres/4462
-#EXTINF:-1,PT | ELEVEN SPORT 4 HD
-http://89.248.174.133:8000/andres/andres/4463
-#EXTINF:-1,PT | ELEVEN SPORT 5 LB
-http://89.248.174.133:8000/andres/andres/4464
-#EXTINF:-1,PT | ELEVEN SPORT 5 HD
-http://89.248.174.133:8000/andres/andres/4465
-#EXTINF:-1,PT | ELEVEN SPORT 6 LB
-http://89.248.174.133:8000/andres/andres/4466
-#EXTINF:-1,PT | ELEVEN SPORT 6 HD
-http://89.248.174.133:8000/andres/andres/4467
-#EXTINF:-1,PT | Benfica TV
-http://89.248.174.133:8000/andres/andres/4468
-#EXTINF:-1,PT | Benfica TV HD
-http://89.248.174.133:8000/andres/andres/4469
-#EXTINF:-1,PT | Benfica TV FHD
-http://89.248.174.133:8000/andres/andres/4470
-#EXTINF:-1,PT | PORTO CANAL
-http://89.248.174.133:8000/andres/andres/4471
-#EXTINF:-1,PT | SPORTING TV
-http://89.248.174.133:8000/andres/andres/4473
-#EXTINF:-1,PT | SPORTING TV HD
-http://89.248.174.133:8000/andres/andres/4474
-#EXTINF:-1,PT | A BOLA TV
-http://89.248.174.133:8000/andres/andres/4475
-#EXTINF:-1,PT | PFC
-http://89.248.174.133:8000/andres/andres/4476
-#EXTINF:-1,PT | EUROSPORT 1
-http://89.248.174.133:8000/andres/andres/4477
-#EXTINF:-1,PT | EUROSPORT 1 HD
-http://89.248.174.133:8000/andres/andres/4478
-#EXTINF:-1,PT | EUROSPORT 2
-http://89.248.174.133:8000/andres/andres/4479
-#EXTINF:-1,PT | KOMBAT SPORT
-http://89.248.174.133:8000/andres/andres/4480
-#EXTINF:-1,PT | FIGHT NETWORK FHD
-http://89.248.174.133:8000/andres/andres/4481
-#EXTINF:-1,PT | FUEL TV
-http://89.248.174.133:8000/andres/andres/4482
-#EXTINF:-1,PT | MOTORVISION
-http://89.248.174.133:8000/andres/andres/4483
-#EXTINF:-1,PT | REAL MADRID TV
-http://89.248.174.133:8000/andres/andres/4484
-#EXTINF:-1,PT | TVCINE 1
-http://89.248.174.133:8000/andres/andres/4486
-#EXTINF:-1,PT | TVCINE 1 HD
-http://89.248.174.133:8000/andres/andres/4487
-#EXTINF:-1,PT | TVCINE 1 FHD
-http://89.248.174.133:8000/andres/andres/4488
-#EXTINF:-1,PT | TVCINE 2
-http://89.248.174.133:8000/andres/andres/4489
-#EXTINF:-1,PT | TVCINE 2 HD
-http://89.248.174.133:8000/andres/andres/4490
-#EXTINF:-1,PT | TVCINE 2 FHD
-http://89.248.174.133:8000/andres/andres/4491
-#EXTINF:-1,PT | TVCINE 3
-http://89.248.174.133:8000/andres/andres/4492
-#EXTINF:-1,PT | TVCINE 3 HD
-http://89.248.174.133:8000/andres/andres/4493
-#EXTINF:-1,PT | TVCINE 3 FHD
-http://89.248.174.133:8000/andres/andres/4494
-#EXTINF:-1,PT | TVCINE 4
-http://89.248.174.133:8000/andres/andres/4495
-#EXTINF:-1,PT | TVCINE 4 HD
-http://89.248.174.133:8000/andres/andres/4496
-#EXTINF:-1,PT | TVCINE 4 FHD
-http://89.248.174.133:8000/andres/andres/4497
-#EXTINF:-1,PT | NOS STUDIO FHD
-http://89.248.174.133:8000/andres/andres/4498
-#EXTINF:-1,PT | HOLLYWOOD
-http://89.248.174.133:8000/andres/andres/4499
-#EXTINF:-1,PT | HOLLYWOOD HD
-http://89.248.174.133:8000/andres/andres/4500
-#EXTINF:-1,PT | CINEMUNDO
-http://89.248.174.133:8000/andres/andres/4501
-#EXTINF:-1,PT | CINEMUNDO HD
-http://89.248.174.133:8000/andres/andres/4502
-#EXTINF:-1,PT | AMC
-http://89.248.174.133:8000/andres/andres/4503
-#EXTINF:-1,PT | AMC HD
-http://89.248.174.133:8000/andres/andres/4504
-#EXTINF:-1,PT | AMC FHD
-http://89.248.174.133:8000/andres/andres/4505
-#EXTINF:-1,PT | FOX MOVIES
-http://89.248.174.133:8000/andres/andres/4506
-#EXTINF:-1,PT | FOX MOVIES HD
-http://89.248.174.133:8000/andres/andres/4507
-#EXTINF:-1,PT | TV SERIES
-http://89.248.174.133:8000/andres/andres/4508
-#EXTINF:-1,PT | TV SERIES HD
-http://89.248.174.133:8000/andres/andres/4509
-#EXTINF:-1,PT | TV SERIES FHD
-http://89.248.174.133:8000/andres/andres/4510
-#EXTINF:-1,PT | FOX
-http://89.248.174.133:8000/andres/andres/4511
-#EXTINF:-1,PT | FOX HD
-http://89.248.174.133:8000/andres/andres/4512
-#EXTINF:-1,PT | FOX FHD
-http://89.248.174.133:8000/andres/andres/4513
-#EXTINF:-1,PT | FOX CRIME
-http://89.248.174.133:8000/andres/andres/4514
-#EXTINF:-1,PT | FOX CRIME FHD
-http://89.248.174.133:8000/andres/andres/4515
-#EXTINF:-1,PT | FOX CRIME HD
-http://89.248.174.133:8000/andres/andres/4516
-#EXTINF:-1,PT | FOX LIFE HD
-http://89.248.174.133:8000/andres/andres/4517
-#EXTINF:-1,PT | FOX COMEDY
-http://89.248.174.133:8000/andres/andres/4518
-#EXTINF:-1,PT | FOX COMEDY HD
-http://89.248.174.133:8000/andres/andres/4519
-#EXTINF:-1,PT | AXN
-http://89.248.174.133:8000/andres/andres/4520
-#EXTINF:-1,PT | AXN HD
-http://89.248.174.133:8000/andres/andres/4521
-#EXTINF:-1,PT | AXN FHD
-http://89.248.174.133:8000/andres/andres/4522
-#EXTINF:-1,PT | FOX LIFE
-http://89.248.174.133:8000/andres/andres/4523
-#EXTINF:-1,PT | AXN WHITE
-http://89.248.174.133:8000/andres/andres/4524
-#EXTINF:-1,PT | AXN WHITE HD
-http://89.248.174.133:8000/andres/andres/4525
-#EXTINF:-1,PT | AXN WHITE FHD
-http://89.248.174.133:8000/andres/andres/4526
-#EXTINF:-1,PT | AXN BLACK
-http://89.248.174.133:8000/andres/andres/4527
-#EXTINF:-1,PT | AXN BLACK HD
-http://89.248.174.133:8000/andres/andres/4528
-#EXTINF:-1,PT | AXN BLACK FHD
-http://89.248.174.133:8000/andres/andres/4529
-#EXTINF:-1,PT | SYFY
-http://89.248.174.133:8000/andres/andres/4530
-#EXTINF:-1,PT | SYFY HD
-http://89.248.174.133:8000/andres/andres/4531
-#EXTINF:-1,PT | National Geographic WILD
-http://89.248.174.133:8000/andres/andres/4532
-#EXTINF:-1,PT | NATIONAL GEOGRAPHIC HD
-http://89.248.174.133:8000/andres/andres/4533
-#EXTINF:-1,PT | DISCOVERY CHANNEL
-http://89.248.174.133:8000/andres/andres/4534
-#EXTINF:-1,PT | DISCOVERY CHANNEL HD
-http://89.248.174.133:8000/andres/andres/4535
-#EXTINF:-1,PT | ID INVESTIGATION DISCOVERY
-http://89.248.174.133:8000/andres/andres/4536
-#EXTINF:-1,PT | HISTORIA
-http://89.248.174.133:8000/andres/andres/4537
-#EXTINF:-1,PT | ODISSEIA
-http://89.248.174.133:8000/andres/andres/4538
-#EXTINF:-1,PT | ODISSEIA HD
-http://89.248.174.133:8000/andres/andres/4539
-#EXTINF:-1,PT | CRIME   INVESTIGATION
-http://89.248.174.133:8000/andres/andres/4540
-#EXTINF:-1,PT | CACA E PESCA
-http://89.248.174.133:8000/andres/andres/4541
-#EXTINF:-1,PT | CAÇAVISION
-http://89.248.174.133:8000/andres/andres/4542
-#EXTINF:-1,PT | TOROS TV
-http://89.248.174.133:8000/andres/andres/4543
-#EXTINF:-1,PT | TRAVEL CHANNEL HD
-http://89.248.174.133:8000/andres/andres/4544
-#EXTINF:-1,PT | DISNEY CHANNEL
-http://89.248.174.133:8000/andres/andres/4546
-#EXTINF:-1,PT | DISNEY JUNIOR
-http://89.248.174.133:8000/andres/andres/4547
-#EXTINF:-1,PT | CANAL PANDA
-http://89.248.174.133:8000/andres/andres/4548
-#EXTINF:-1,PT | PANDA BIGGS
-http://89.248.174.133:8000/andres/andres/4549
-#EXTINF:-1,PT | JIM JAM
-http://89.248.174.133:8000/andres/andres/4550
-#EXTINF:-1,PT | BABY TV
-http://89.248.174.133:8000/andres/andres/4551
-#EXTINF:-1,PT | NICKELODEON
-http://89.248.174.133:8000/andres/andres/4553
-#EXTINF:-1,PT | NICK JR
-http://89.248.174.133:8000/andres/andres/4554
-#EXTINF:-1,PT | SIC K
-http://89.248.174.133:8000/andres/andres/4555
-#EXTINF:-1,PT | LUXE TV HD
-http://89.248.174.133:8000/andres/andres/4557
-#EXTINF:-1,PT | BLAZE TV
-http://89.248.174.133:8000/andres/andres/4558
-#EXTINF:-1,PT | CBS REALITY
-http://89.248.174.133:8000/andres/andres/4559
-#EXTINF:-1,PT | E! ENTERTAINMENT
-http://89.248.174.133:8000/andres/andres/4560
-#EXTINF:-1,PT | KURIAKOS
-http://89.248.174.133:8000/andres/andres/4561
-#EXTINF:-1,PT | MY CUISINE
-http://89.248.174.133:8000/andres/andres/4562
-#EXTINF:-1,PT | TLC
-http://89.248.174.133:8000/andres/andres/4563
-#EXTINF:-1,PT | EURONEWS
-http://89.248.174.133:8000/andres/andres/4564
-#EXTINF:-1,PT | 24 KITCHEN
-http://89.248.174.133:8000/andres/andres/4565
-#EXTINF:-1,PT | DOG TV FHD
-http://89.248.174.133:8000/andres/andres/4566
-#EXTINF:-1,PT | TV RECORD
-http://89.248.174.133:8000/andres/andres/4567
-#EXTINF:-1,PT | CANÇÃO NOVA
-http://89.248.174.133:8000/andres/andres/4568
-#EXTINF:-1,PT | GLOBO
-http://89.248.174.133:8000/andres/andres/4570
-#EXTINF:-1,PT | GLOBO NOW
-http://89.248.174.133:8000/andres/andres/4571
-#EXTINF:-1,PT | GLOBO PORTUGAL HD
-http://89.248.174.133:8000/andres/andres/4572
-#EXTINF:-1,PT | TPA INTERNACIONAL
-http://89.248.174.133:8000/andres/andres/4573
-#EXTINF:-1,PT | ZAP VIVA HD
-http://89.248.174.133:8000/andres/andres/4574
-#EXTINF:-1,PT | TV5 MONDE
-http://89.248.174.133:8000/andres/andres/4575
-#EXTINF:-1,PT | TVE 24h
-http://89.248.174.133:8000/andres/andres/4576
-#EXTINF:-1,PT | TVE Internacional
-http://89.248.174.133:8000/andres/andres/4577
-#EXTINF:-1,PT | Sky News
-http://89.248.174.133:8000/andres/andres/4578
-#EXTINF:-1,PT | CNN
-http://89.248.174.133:8000/andres/andres/4579
-#EXTINF:-1,PT | M6
-http://89.248.174.133:8000/andres/andres/4580
-#EXTINF:-1,PT | BLOOMBERG
-http://89.248.174.133:8000/andres/andres/4581
-#EXTINF:-1,PT | MCM POP
-http://89.248.174.133:8000/andres/andres/4582
-#EXTINF:-1,PT | MTV PORTUGAL
-http://89.248.174.133:8000/andres/andres/4584
-#EXTINF:-1,PT | VH1
-http://89.248.174.133:8000/andres/andres/4585
-#EXTINF:-1,PT | AFRO MUSIC
-http://89.248.174.133:8000/andres/andres/4586
-#EXTINF:-1,PT | TRACE TOCA
-http://89.248.174.133:8000/andres/andres/4587
-#EXTINF:-1,PT | TRACE URBAN
-http://89.248.174.133:8000/andres/andres/4588
-#EXTINF:-1,PT | MEZZO
-http://89.248.174.133:8000/andres/andres/4589
+#EXTINF:-1,PT| TVI FHD 
+http://ultimateiptv.me:8081/Karine/123456/265011199
+#EXTINF:-1,PT| INVESTIGATION DISCOVERY HD
+http://ultimateiptv.me:8081/Karine/123456/265011152
+#EXTINF:-1,PT| CANAL 11 FHD
+http://ultimateiptv.me:8081/Karine/123456/265011182
+#EXTINF:-1,PT: SPORT TV 1 UHD
+http://ultimateiptv.me:8081/Karine/123456/5335
+#EXTINF:-1,PT: SIC FHD
+http://ultimateiptv.me:8081/Karine/123456/5338
+#EXTINF:-1,PT: RTP 1 FHD
+http://ultimateiptv.me:8081/Karine/123456/5336
+#EXTINF:-1,PT: RTP 2 FHD
+http://ultimateiptv.me:8081/Karine/123456/5337
+#EXTINF:-1,PT| HOLLYWOOD FHD
+http://ultimateiptv.me:8081/Karine/123456/7212
+#EXTINF:-1,PT: SIC  RADICAL FHD
+http://ultimateiptv.me:8081/Karine/123456/5339
+#EXTINF:-1,PT: SPORT TV + FHD
+http://ultimateiptv.me:8081/Karine/123456/5340
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://ultimateiptv.me:8081/Karine/123456/5341
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://ultimateiptv.me:8081/Karine/123456/5342
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://ultimateiptv.me:8081/Karine/123456/5343
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://ultimateiptv.me:8081/Karine/123456/5344
+#EXTINF:-1,PT| BENFICA TV FHD
+http://ultimateiptv.me:8081/Karine/123456/4269
+#EXTINF:-1,PT| 24 KITCHEN FHD
+http://ultimateiptv.me:8081/Karine/123456/4268
+#EXTINF:-1,PT| SPORT TV 1 FHD
+http://ultimateiptv.me:8081/Karine/123456/4445
+#EXTINF:-1,PT| SPORT TV 2 FHD
+http://ultimateiptv.me:8081/Karine/123456/4444
+#EXTINF:-1,PT| SPORT TV 3 FHD
+http://ultimateiptv.me:8081/Karine/123456/4443
+#EXTINF:-1,PT| SPORT TV 4 FHD
+http://ultimateiptv.me:8081/Karine/123456/4441
+#EXTINF:-1,PT| SPORT TV 5 FHD
+http://ultimateiptv.me:8081/Karine/123456/4439
+#EXTINF:-1,PT| RTP 1  FHD
+http://ultimateiptv.me:8081/Karine/123456/4492
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://ultimateiptv.me:8081/Karine/123456/6510
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://ultimateiptv.me:8081/Karine/123456/6509
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://ultimateiptv.me:8081/Karine/123456/6511
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://ultimateiptv.me:8081/Karine/123456/6513
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://ultimateiptv.me:8081/Karine/123456/6729
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://ultimateiptv.me:8081/Karine/123456/6512
+#EXTINF:-1,PT| RTP 1 HD
+http://ultimateiptv.me:8081/Karine/123456/1727
+#EXTINF:-1,PT| RTP 2 HD
+http://ultimateiptv.me:8081/Karine/123456/1726
+#EXTINF:-1,PT| RTP 3 HD
+http://ultimateiptv.me:8081/Karine/123456/1715
+#EXTINF:-1,PT| TVI HD
+http://ultimateiptv.me:8081/Karine/123456/4493
+#EXTINF:-1,PT| TVI
+http://ultimateiptv.me:8081/Karine/123456/1674
+#EXTINF:-1,PT| TVI REALITY
+http://ultimateiptv.me:8081/Karine/123456/1672
+#EXTINF:-1,PT| TVI FICCAO
+http://ultimateiptv.me:8081/Karine/123456/2647
+#EXTINF:-1,PT| RTP  MADEIRA
+http://ultimateiptv.me:8081/Karine/123456/2321
+#EXTINF:-1,PT| RTP ACORES
+http://ultimateiptv.me:8081/Karine/123456/2649
+#EXTINF:-1,PT| RTP MEMORIA
+http://ultimateiptv.me:8081/Karine/123456/1683
+#EXTINF:-1,PT| RTP INTERNATIONAL
+http://ultimateiptv.me:8081/Karine/123456/1658
+#EXTINF:-1,PT| RTP INFORMACAO
+http://ultimateiptv.me:8081/Karine/123456/1659
+#EXTINF:-1,PT| RTP ACORESS
+http://ultimateiptv.me:8081/Karine/123456/1685
+#EXTINF:-1,PT| RTP AFRICA
+http://ultimateiptv.me:8081/Karine/123456/1684
+#EXTINF:-1,PT| SIC RADICAL
+http://ultimateiptv.me:8081/Karine/123456/1656
+#EXTINF:-1,PT| CANAL Q
+http://ultimateiptv.me:8081/Karine/123456/1704
+#EXTINF:-1,PT| SIC MULHER
+http://ultimateiptv.me:8081/Karine/123456/1682
+#EXTINF:-1,PT| SIC HD
+http://ultimateiptv.me:8081/Karine/123456/1725
+#EXTINF:-1,PT| STV NOTICIAS
+http://ultimateiptv.me:8081/Karine/123456/2334
+#EXTINF:-1,PT| CM TV HD
+http://ultimateiptv.me:8081/Karine/123456/1700
+#EXTINF:-1,PT| TVI 24
+http://ultimateiptv.me:8081/Karine/123456/1673
+#EXTINF:-1,PT| SIC NOTICIAS
+http://ultimateiptv.me:8081/Karine/123456/1657
+#EXTINF:-1,PT| E! HD
+http://ultimateiptv.me:8081/Karine/123456/1695
+#EXTINF:-1,PT| EURONEWS
+http://ultimateiptv.me:8081/Karine/123456/2335
+#EXTINF:-1,PT| FOX NEWS
+http://ultimateiptv.me:8081/Karine/123456/2331
+#EXTINF:-1,PT| SIC KIDS
+http://ultimateiptv.me:8081/Karine/123456/2329
+#EXTINF:-1,PT| BABY TV
+http://ultimateiptv.me:8081/Karine/123456/1708
+#EXTINF:-1,PT| DISNEY JUNIOR HD
+http://ultimateiptv.me:8081/Karine/123456/1696
+#EXTINF:-1,PT| DISNEY CHANNEL
+http://ultimateiptv.me:8081/Karine/123456/1697
+#EXTINF:-1,PT| CANAL PANDA
+http://ultimateiptv.me:8081/Karine/123456/1705
+#EXTINF:-1,PT| NICKELODEON
+http://ultimateiptv.me:8081/Karine/123456/1688
+#EXTINF:-1,PT| JIM JAM
+http://ultimateiptv.me:8081/Karine/123456/1661
+#EXTINF:-1,PT| BIGGS
+http://ultimateiptv.me:8081/Karine/123456/2328
+#EXTINF:-1,PT| TV CINE 1  HD
+http://ultimateiptv.me:8081/Karine/123456/1716
+#EXTINF:-1,PT| TV CINE 2  HD
+http://ultimateiptv.me:8081/Karine/123456/1717
+#EXTINF:-1,PT| TV CINE 3 HD
+http://ultimateiptv.me:8081/Karine/123456/1718
+#EXTINF:-1,PT| TV CINE 4 HD
+http://ultimateiptv.me:8081/Karine/123456/1719
+#EXTINF:-1,PT| CINEMUNDO HD
+http://ultimateiptv.me:8081/Karine/123456/1701
+#EXTINF:-1,PT| TV SERIES FHD
+http://ultimateiptv.me:8081/Karine/123456/1675
+#EXTINF:-1,PT| AMC HD
+http://ultimateiptv.me:8081/Karine/123456/1709
+#EXTINF:-1,PT| HOLLYWOOD HD
+http://ultimateiptv.me:8081/Karine/123456/1662
+#EXTINF:-1,PT| FOX HD
+http://ultimateiptv.me:8081/Karine/123456/1663
+#EXTINF:-1,PT| FOX MOVIES HD
+http://ultimateiptv.me:8081/Karine/123456/1729
+#EXTINF:-1,PT| FOX COMEDY HD
+http://ultimateiptv.me:8081/Karine/123456/1694
+#EXTINF:-1,PT| FOX LIFE
+http://ultimateiptv.me:8081/Karine/123456/1664
+#EXTINF:-1,PT| FOX CRIME
+http://ultimateiptv.me:8081/Karine/123456/1665
+#EXTINF:-1,PT| AXN HD
+http://ultimateiptv.me:8081/Karine/123456/1714
+#EXTINF:-1,PT| AXN BLACK HD
+http://ultimateiptv.me:8081/Karine/123456/2140
+#EXTINF:-1,PT| AXN WHITE HD
+http://ultimateiptv.me:8081/Karine/123456/1713
+#EXTINF:-1,PT| SYFY HD
+http://ultimateiptv.me:8081/Karine/123456/1655
+#EXTINF:-1,PT| MOV HD
+http://ultimateiptv.me:8081/Karine/123456/1728
+#EXTINF:-1,PT: NBA HD
+http://ultimateiptv.me:8081/Karine/123456/6730
+#EXTINF:-1,PT| SPORT TV+
+http://ultimateiptv.me:8081/Karine/123456/2324
+#EXTINF:-1,PT| SPORT TV 1 HD 720p
+http://ultimateiptv.me:8081/Karine/123456/4437
+#EXTINF:-1,PT| SPORT TV 1 SD
+http://ultimateiptv.me:8081/Karine/123456/4438
+#EXTINF:-1,PT| SPORT TV 1 HD
+http://ultimateiptv.me:8081/Karine/123456/1721
+#EXTINF:-1,PT| SPORT TV 2 HD
+http://ultimateiptv.me:8081/Karine/123456/1722
+#EXTINF:-1,PT| SPORT TV 3 HD
+http://ultimateiptv.me:8081/Karine/123456/1723
+#EXTINF:-1,PT| SPORT TV 4 HD
+http://ultimateiptv.me:8081/Karine/123456/1724
+#EXTINF:-1,PT| SPORT TV  5 HD
+http://ultimateiptv.me:8081/Karine/123456/2139
+#EXTINF:-1,PT| SPORT TV 5 HD
+http://ultimateiptv.me:8081/Karine/123456/2295
+#EXTINF:-1,PT| BENFICA TV 1
+http://ultimateiptv.me:8081/Karine/123456/1670
+#EXTINF:-1,PT| BENFICA TV 2
+http://ultimateiptv.me:8081/Karine/123456/1669
+#EXTINF:-1,PT| SPORTING TV
+http://ultimateiptv.me:8081/Karine/123456/1720
+#EXTINF:-1,PT| EUROSPORT 1
+http://ultimateiptv.me:8081/Karine/123456/1667
+#EXTINF:-1,PT| EUROSPORT 2
+http://ultimateiptv.me:8081/Karine/123456/1666
+#EXTINF:-1,PT| PORTO CANAL
+http://ultimateiptv.me:8081/Karine/123456/1660
+#EXTINF:-1,PT| PORTO  CANAL
+http://ultimateiptv.me:8081/Karine/123456/2772
+#EXTINF:-1,PT| TOROS TV
+http://ultimateiptv.me:8081/Karine/123456/1680
+#EXTINF:-1,PT| MOTORS TV
+http://ultimateiptv.me:8081/Karine/123456/1692
+#EXTINF:-1,PT| FUEL TV
+http://ultimateiptv.me:8081/Karine/123456/1693
+#EXTINF:-1,PT|  A BOLA TV
+http://ultimateiptv.me:8081/Karine/123456/1710
+#EXTINF:-1,PT| EUROSPORT  NEWS
+http://ultimateiptv.me:8081/Karine/123456/2325
+#EXTINF:-1,PT| MOTORVISION
+http://ultimateiptv.me:8081/Karine/123456/2327
+#EXTINF:-1,PT| PFC HD
+http://ultimateiptv.me:8081/Karine/123456/1686
+#EXTINF:-1,PT| MY CUISINE TV HD
+http://ultimateiptv.me:8081/Karine/123456/9353
+#EXTINF:-1,PT| 24 KITCHEN
+http://ultimateiptv.me:8081/Karine/123456/1712
+#EXTINF:-1,PT| NATIONAL GEOGRAPHIC
+http://ultimateiptv.me:8081/Karine/123456/1690
+#EXTINF:-1,PT| NATIONAL GEO WILD
+http://ultimateiptv.me:8081/Karine/123456/1689
+#EXTINF:-1,PT| ODISSEIA
+http://ultimateiptv.me:8081/Karine/123456/1687
+#EXTINF:-1,PT| DISCOVERY HD SHOWCASE
+http://ultimateiptv.me:8081/Karine/123456/1698
+#EXTINF:-1,PT| DISCOVERY CHANNEL
+http://ultimateiptv.me:8081/Karine/123456/1699
+#EXTINF:-1,PT| CBS REALITY
+http://ultimateiptv.me:8081/Karine/123456/1703
+#EXTINF:-1,PT| CANAL HISTORIA
+http://ultimateiptv.me:8081/Karine/123456/1706
+#EXTINF:-1,PT| CACA & PESCA
+http://ultimateiptv.me:8081/Karine/123456/1707
+#EXTINF:-1,PT| CACA VISION
+http://ultimateiptv.me:8081/Karine/123456/2323
+#EXTINF:-1,PT| CACA E PESCA
+http://ultimateiptv.me:8081/Karine/123456/2322
+#EXTINF:-1,PT| A & E
+http://ultimateiptv.me:8081/Karine/123456/1711
+#EXTINF:-1,PT| CANAL  TOROS
+http://ultimateiptv.me:8081/Karine/123456/2554
+#EXTINF:-1,PT| TLC HD
+http://ultimateiptv.me:8081/Karine/123456/1681
+#EXTINF:-1,PT| TRAVEL CHANNEL HD
+http://ultimateiptv.me:8081/Karine/123456/2773
+#EXTINF:-1,PT| TPA INTERN
+http://ultimateiptv.me:8081/Karine/123456/1679
+#EXTINF:-1,PT| MTV  DANCE
+http://ultimateiptv.me:8081/Karine/123456/2145
+#EXTINF:-1,PT| MCM TOP
+http://ultimateiptv.me:8081/Karine/123456/2146
+#EXTINF:-1,PT| VH1 CLASSIC HD
+http://ultimateiptv.me:8081/Karine/123456/3091
+#EXTINF:-1,PT| VH1 HD
+http://ultimateiptv.me:8081/Karine/123456/2143
+#EXTINF:-1,PT| VH1+
+http://ultimateiptv.me:8081/Karine/123456/1671
+#EXTINF:-1,PT| TRACE URBAN TV
+http://ultimateiptv.me:8081/Karine/123456/2142
+#EXTINF:-1,PT| AFRO MUSIC
+http://ultimateiptv.me:8081/Karine/123456/2141
+#EXTINF:-1,PT| TV RECORD
+http://ultimateiptv.me:8081/Karine/123456/1676
+#EXTINF:-1,PT| TV GLOBO PREMUIM
+http://ultimateiptv.me:8081/Karine/123456/1677
+#EXTINF:-1,PT| TV GLOBO
+http://ultimateiptv.me:8081/Karine/123456/1678
+#EXTINF:-1,PT| MTV HD
+http://ultimateiptv.me:8081/Karine/123456/1691
+#EXTINF:-1,PT| CRIME INVESTIGATION HD
+http://ultimateiptv.me:8081/Karine/123456/265011151
+#EXTINF:-1,PT| BLAZE
+http://ultimateiptv.me:8081/Karine/123456/265014130
