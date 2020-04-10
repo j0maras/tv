@@ -1,121 +1,61 @@
 #EXTM3U
-#EXTINF:-1,PT:RTP 1 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1453
-#EXTINF:-1,PT:RTP 2 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1465
-#EXTINF:-1,PT:RTP 3 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1466
-#EXTINF:-1,PT:RTP AFRICA HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1697
-#EXTINF:-1,PT:RTP ACORES HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1696
-#EXTINF:-1,PT:RTP MEMORIA HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1698
-#EXTINF:-1,PT:RTP MADEIRA HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1467
-#EXTINF:-1,PT:SIC
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1524
-#EXTINF:-1,PT:SIC KIDS
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1702
-#EXTINF:-1,PT:SIC RADICAL HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1701
-#EXTINF:-1,PT:SIC NOTICIAS HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1703
-#EXTINF:-1,PT:SIC CARAS HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1471
-#EXTINF:-1,PT:TVI HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1525
-#EXTINF:-1,PT:TVI 24 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1642
-#EXTINF:-1,PT:TVI REALITY HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1643
-#EXTINF:-1,PT:TVI FICCAO HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4706
-#EXTINF:-1,PT:AXN HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1457
-#EXTINF:-1,PT:AXN WHITE HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1458
-#EXTINF:-1,PT:AXN BLACK HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1456
-#EXTINF:-1,PT:FOX HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1454
-#EXTINF:-1,PT:FOX LIFE HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1462
-#EXTINF:-1,PT:FOX CRIME HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1463
-#EXTINF:-1,PT:FOX MOVIES HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1455
-#EXTINF:-1,PT:FOX COMEDY HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1464
-#EXTINF:-1,PT:HOLLYWOOD HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1461
-#EXTINF:-1,PT:SYFY
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4389
-#EXTINF:-1,PT:MOV HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1460
-#EXTINF:-1,PT:AMC HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1459
-#EXTINF:-1,PT:TV SERIES HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1645
-#EXTINF:-1,PT:CINEMUNDO
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4388
-#EXTINF:-1,PT:ODISSEIA
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4387
-#EXTINF:-1,PT:VH 1 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1480
-#EXTINF:-1,PT: FUEL TV
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4707
-#EXTINF:-1,PT:A BOLA TV
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1478
-#EXTINF:-1,PT:PORTO CANAL
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4385
-#EXTINF:-1,PT:CACA E PESCA
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4709
-#EXTINF:-1,PT:TVCINE 1 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1449
-#EXTINF:-1,PT:TVCINE 2 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1450
-#EXTINF:-1,PT:TVCINE 3 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1451
-#EXTINF:-1,PT:TVCINE 4 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1452
-#EXTINF:-1,PT:CANAL PANDA
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1704
-#EXTINF:-1,PT:NICKELODEON HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1475
-#EXTINF:-1,PT:DISNEY JUNIOR HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1468
-#EXTINF:-1,PT:DISNEY CHANNEL HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1469
-#EXTINF:-1,PT:CARTOON NETWORK
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1474
-#EXTINF:-1,PT:A&E
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1477
-#EXTINF:-1,PT:DISCOVERY HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1473
-#EXTINF:-1,PT:NAT GEO WILD HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1472
-#EXTINF:-1,PT:NAT GEOGRAPHIC HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1700
-#EXTINF:-1,PT:DISCOVERY SHOWCASE HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4386
-#EXTINF:-1,PT:MOTORVISION
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/4544
-#EXTINF:-1,PT:BENFICA TV HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1470
-#EXTINF:-1,PT:EUROSPORT 1 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1526
-#EXTINF:-1,PT:EUROSPORT 2 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1527
-#EXTINF:-1,PT:SPORT TV 1 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/500
-#EXTINF:-1,PT:SPORT TV 2 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/499
-#EXTINF:-1,PT:SPORT TV 3 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/498
-#EXTINF:-1,PT:SPORT TV 4 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/497
-#EXTINF:-1,PT:SPORT TV 5 HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1644
-#EXTINF:-1,PT:SPORTING TV HD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/1705
+#EXTINF:-1,POR:  RTP 1
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7057
+#EXTINF:-1,POR:  RTP 2
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7056
+#EXTINF:-1,POR:  SIC HD
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7063
+#EXTINF:-1,POR:  SIC Caras
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7059
+#EXTINF:-1,POR:  SIC K
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7062
+#EXTINF:-1,POR:  Sic Mulher
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7058
+#EXTINF:-1,POR:  SIC Noticias
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7061
+#EXTINF:-1,POR:  Sic Radical
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7060
+#EXTINF:-1,POR:  Toros tv
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7068
+#EXTINF:-1,POR:  TV Globo
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7064
+#EXTINF:-1,POR:  TVI
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7066
+#EXTINF:-1,POR:  TVI 24
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7065
+#EXTINF:-1,POR:  Cine Mundo
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7050
+#EXTINF:-1,POR:  TVI Reality
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7049
+#EXTINF:-1,POR:  Fox Movies HD
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7069
+#EXTINF:-1,POR:  RTP 3
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7078
+#EXTINF:-1,POR:  Hollywood
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7048
+#EXTINF:-1,POR:  SPORT TV 1
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7085
+#EXTINF:-1,POR:  SPORT TV 2 HD
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7084
+#EXTINF:-1,POR:  SPORT TV 3 HD
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7083
+#EXTINF:-1,POR:  SPORT TV 4
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7082
+#EXTINF:-1,POR:  SPORT TV 5 HD
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7081
+#EXTINF:-1,POR:  TVCine 1
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7077
+#EXTINF:-1,POR:  TVCine 2
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7076
+#EXTINF:-1,POR:  TVCine 3
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7075
+#EXTINF:-1,POR:  TVCine 4
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7074
+#EXTINF:-1,POR:  TV RECORD
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7073
+#EXTINF:-1,POR:  CmTV FHD
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7072
+#EXTINF:-1,POR:  BTV 1 HD
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7071
+#EXTINF:-1,POR:  CANAL.PANDA
+http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7070
