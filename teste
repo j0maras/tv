@@ -1,57 +1,30 @@
 #EXTM3U
-#EXTINF:-1,PT: TV CINE 1  HD
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376432.m3u8
-#EXTINF:-1,PT: TV CINE 2  HD
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376431.m3u8
-#EXTINF:-1,PT: TV CINE 3 HD
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376430.m3u8
-#EXTINF:-1,PT: TV CINE 4
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376429.m3u8
-#EXTINF:-1,PT: TV GLOBO
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376428.m3u8
-#EXTINF:-1,PT: TV Globo Premium
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376427.m3u8
-#EXTINF:-1,PT: TV RECORD
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376426.m3u8
-#EXTINF:-1,PT: TVC HD
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376425.m3u8
-#EXTINF:-1,PT: TVCINE 1 HD 1080
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376525.m3u8
-#EXTINF:-1,PT: TVCINE 2 HD 1080
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376526.m3u8
-#EXTINF:-1,PT: TVCINE 3 HD 1080
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376527.m3u8
-#EXTINF:-1,PT: TVCINE 4 HD 1080
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376528.m3u8
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376443.m3u8
-#EXTINF:-1,PT: SPORT TV 1 HD 1080
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376518.m3u8
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376442.m3u8
-#EXTINF:-1,PT: SPORT TV 2 HD 1080
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376519.m3u8
-#EXTINF:-1,PT: SPORT TV 2 HD(1)
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376416.m3u8
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376441.m3u8
-#EXTINF:-1,PT: SPORT TV 3 HD 1080
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376520.m3u8
-#EXTINF:-1,PT: SPORT TV 3HD
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376529.m3u8
-#EXTINF:-1,PT: SPORT TV 4
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376440.m3u8
-#EXTINF:-1,PT: SPORT TV 4 HD 1080
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376521.m3u8
-#EXTINF:-1,PT: SPORT TV 4HD
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376439.m3u8
-#EXTINF:-1,PT: SPORT TV 5
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376438.m3u8
-#EXTINF:-1,PT: SPORT TV 5 HD 1080
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376522.m3u8
-#EXTINF:-1,PT: SPORT TV 5HD
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376437.m3u8
-#EXTINF:-1,PT: SPORT TV+
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376516.m3u8
-#EXTINF:-1,PT: SPORT TV+  HD 1080
-http://yourdnshere.xyz:83/live/Kericage/6824106935/376517.m3u8
+#EXTINF:-1,PT:TVCINE 1 HD
+http://m-iptv.net:6204/12345678/12345678/8795
+#EXTINF:-1,PT:TVCINE 2 HD
+http://m-iptv.net:6204/12345678/12345678/8794
+#EXTINF:-1,PT:TVCINE 3 HD
+http://m-iptv.net:6204/12345678/12345678/8793
+#EXTINF:-1,PT:TVCINE 4 HD
+http://m-iptv.net:6204/12345678/12345678/8792
+#EXTINF:-1,PT:SPORT TV
+http://m-iptv.net:6204/12345678/12345678/33618
+#EXTINF:-1,PT:SPORT TV   HD
+http://m-iptv.net:6204/12345678/12345678/33619
+#EXTINF:-1,PT:SPORTING TV
+http://m-iptv.net:6204/12345678/12345678/33620
+#EXTINF:-1,PT:SPORTTV 1 HD
+http://m-iptv.net:6204/12345678/12345678/33621
+#EXTINF:-1,PT:SPORTTV 2 HD
+http://m-iptv.net:6204/12345678/12345678/33623
+#EXTINF:-1,PT:SPORTTV 3 HD
+http://m-iptv.net:6204/12345678/12345678/33625
+#EXTINF:-1,PT:SPORTTV 4 HD
+http://m-iptv.net:6204/12345678/12345678/33627
+#EXTINF:-1,PT:SPORTTV 5 HD
+http://m-iptv.net:6204/12345678/12345678/33628
+#EXTINF:-1,PT:SPORTTV 1 SD
+http://m-iptv.net:6204/12345678/12345678/33622
+#EXTINF:-1,PT:SPORTTV 2 SD
+http://m-iptv.net:6204/12345678/12345678/33624
+#EXTINF:-1,PT:SPORTTV 3 SD
