@@ -1,34 +1,79 @@
 #EXTM3U
-#EXTINF:-1,PT:TVCINE 1 HD
-http://m-iptv.net:6204/12345678/12345678/8795
-#EXTINF:-1,PT:TVCINE 2 HD
-http://m-iptv.net:6204/12345678/12345678/8794
-#EXTINF:-1,PT:TVCINE 3 HD
-http://m-iptv.net:6204/12345678/12345678/8793
-#EXTINF:-1,PT:TVCINE 4 HD
-http://m-iptv.net:6204/12345678/12345678/8792
-#EXTINF:-1,PT:ABOLA TV
-#EXTINF:-1,PT:BTV 1 HD
-http://m-iptv.net:6204/12345678/12345678/8867
-#EXTINF:-1,PT:SPORT TV
-http://m-iptv.net:6204/12345678/12345678/33618
-#EXTINF:-1,PT:SPORT TV   HD
-http://m-iptv.net:6204/12345678/12345678/33619
-#EXTINF:-1,PT:SPORTING TV
-http://m-iptv.net:6204/12345678/12345678/33620
-#EXTINF:-1,PT:SPORTTV 1 HD
-http://m-iptv.net:6204/12345678/12345678/33621
-#EXTINF:-1,PT:SPORTTV 2 HD
-http://m-iptv.net:6204/12345678/12345678/33623
-#EXTINF:-1,PT:SPORTTV 3 HD
-http://m-iptv.net:6204/12345678/12345678/33625
-#EXTINF:-1,PT:SPORTTV 4 HD
-http://m-iptv.net:6204/12345678/12345678/33627
-#EXTINF:-1,PT:SPORTTV 5 HD
-http://m-iptv.net:6204/12345678/12345678/33628
-#EXTINF:-1,PT:SPORTTV 1 SD
-http://m-iptv.net:6204/12345678/12345678/33622
-#EXTINF:-1,PT:SPORTTV 2 SD
-http://m-iptv.net:6204/12345678/12345678/33624
-#EXTINF:-1,PT:SPORTTV 3 SD
-http://m-iptv.net:6204/12345678/12345678/33626
+#EXTINF:-1,PT: BENFICA TV 1
+http://live.firetv.me:83/Jaylen1005/96211256/376491
+#EXTINF:-1,PT: BENFICA TV 2
+#EXTINF:-1,PT: Eleven Sports 1
+http://live.firetv.me:83/Jaylen1005/96211256/378302
+#EXTINF:-1,PT: Eleven Sports 2
+http://live.firetv.me:83/Jaylen1005/96211256/378303
+#EXTINF:-1,PT: Eleven Sports 3
+http://live.firetv.me:83/Jaylen1005/96211256/378304
+#EXTINF:-1,PT: Eleven Sports 4
+http://live.firetv.me:83/Jaylen1005/96211256/378305
+#EXTINF:-1,PT: Eleven Sports 5
+http://live.firetv.me:83/Jaylen1005/96211256/378306
+#EXTINF:-1,PT: Eleven Sports 6
+http://live.firetv.me:83/Jaylen1005/96211256/378307
+#EXTINF:-1,PT: FUEL TV HD 1080
+http://live.firetv.me:83/Jaylen1005/96211256/376513
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://live.firetv.me:83/Jaylen1005/96211256/376443
+#EXTINF:-1,PT: SPORT TV 1 HD 1080
+http://live.firetv.me:83/Jaylen1005/96211256/376518
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://live.firetv.me:83/Jaylen1005/96211256/376442
+#EXTINF:-1,PT: SPORT TV 2 HD 1080
+http://live.firetv.me:83/Jaylen1005/96211256/376519
+#EXTINF:-1,PT: SPORT TV 2 HD(1)
+http://live.firetv.me:83/Jaylen1005/96211256/376416
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://live.firetv.me:83/Jaylen1005/96211256/376441
+#EXTINF:-1,PT: SPORT TV 3 HD 1080
+http://live.firetv.me:83/Jaylen1005/96211256/376520
+#EXTINF:-1,PT: SPORT TV 3HD
+http://live.firetv.me:83/Jaylen1005/96211256/376529
+#EXTINF:-1,PT: SPORT TV 4
+http://live.firetv.me:83/Jaylen1005/96211256/376440
+#EXTINF:-1,PT: SPORT TV 4 HD 1080
+http://live.firetv.me:83/Jaylen1005/96211256/376521
+#EXTINF:-1,PT: SPORT TV 4HD
+http://live.firetv.me:83/Jaylen1005/96211256/376439
+#EXTINF:-1,PT: SPORT TV 5
+http://live.firetv.me:83/Jaylen1005/96211256/376438
+#EXTINF:-1,PT: SPORT TV 5 HD 1080
+http://live.firetv.me:83/Jaylen1005/96211256/376522
+#EXTINF:-1,PT: SPORT TV 5HD
+http://live.firetv.me:83/Jaylen1005/96211256/376437
+#EXTINF:-1,PT: SPORT TV+
+http://live.firetv.me:83/Jaylen1005/96211256/376516
+#EXTINF:-1,PT: SPORT TV+  HD 1080
+http://live.firetv.me:83/Jaylen1005/96211256/376517
+#EXTINF:-1,PT: TOUROS TV
+http://live.firetv.me:83/Jaylen1005/96211256/376433
+#EXTINF:-1,PT: TV CINE 1  HD
+http://live.firetv.me:83/Jaylen1005/96211256/376432
+#EXTINF:-1,PT: TV CINE 2  HD
+http://live.firetv.me:83/Jaylen1005/96211256/376431
+#EXTINF:-1,PT: TV CINE 3 HD
+http://live.firetv.me:83/Jaylen1005/96211256/376430
+#EXTINF:-1,PT: TV CINE 4
+http://live.firetv.me:83/Jaylen1005/96211256/376429
+#EXTINF:-1,PT: TV GLOBO
+http://live.firetv.me:83/Jaylen1005/96211256/376428
+#EXTINF:-1,PT: TV Globo Premium
+http://live.firetv.me:83/Jaylen1005/96211256/376427
+#EXTINF:-1,PT: TVC HD
+http://live.firetv.me:83/Jaylen1005/96211256/376425
+#EXTINF:-1,PT: TVCINE 1 HD 1080
+http://live.firetv.me:83/Jaylen1005/96211256/376525
+#EXTINF:-1,PT: TVCINE 2 HD 1080
+http://live.firetv.me:83/Jaylen1005/96211256/376526
+#EXTINF:-1,PT: TVCINE 3 HD 1080
+http://live.firetv.me:83/Jaylen1005/96211256/376527
+#EXTINF:-1,PT: TVCINE 4 HD 1080
+http://live.firetv.me:83/Jaylen1005/96211256/376528
+#EXTINF:-1,PT: TVCseries
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://live.firetv.me:83/Jaylen1005/96211256/376417
+#EXTINF:-1,PT: Canal 11 HD
+http://live.firetv.me:83/Jaylen1005/96211256/382381
