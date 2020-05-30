@@ -125,9 +125,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
 http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
 
 
- 
-
- 
+  
 
  
 #EXTINF:-1 tvg-id="RTPI" tvg-logo="https://ptiptv.tk/logo?i=RTPI" group-title="Entertainment", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR yellow][/B][/COLOR] RTP Internacional
