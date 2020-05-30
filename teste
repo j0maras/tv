@@ -7,33 +7,30 @@ http://85.244.70.140:8000/play/a00r
 http://85.244.70.140:8000/play/a00m
 #EXTINF:-1,TVCine 1 HD
 http://85.244.70.140:8000/play/a00y
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  TVCine 4 HD
+#EXTINF:-1,TVCine 4 HD
 http://85.244.70.140:8000/play/a00u
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  TVI Reality
+#EXTINF:-1,TVI Reality
 http://85.244.70.140:8000/play/a01x
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Canal 11 HD
+#EXTINF:-1,Canal 11 HD
 http://85.244.70.140:8000/play/a00z
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Caça e Pesca
+#EXTINF:-1,Caça e Pesca
 http://85.244.70.140:8000/play/a00v
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Disney Junior
+#EXTINF:-1,Disney Junior
 http://85.244.70.140:8000/play/a019
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Eleven Sports 1
+#EXTINF:-1,Eleven Sports 1
 http://85.244.70.140:8000/play/a01j
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  FOX Movies
+#EXTINF:-1,FOX Movies
 http://85.244.70.140:8000/play/a014
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Hollywood
+#EXTINF:-1,Hollywood
 http://85.244.70.140:8000/play/a00q
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  ID Investigation Discovery
+#EXTINF:-1,ID Investigation Discovery
 http://85.244.70.140:8000/play/a01i
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  NOS Studios HD
+#EXTINF:-1,NOS Studios HD
 http://85.244.70.140:8000/play/a011
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Nick Jr.
+#EXTINF:-1,Nick Jr.
 http://85.244.70.140:8000/play/a020
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  SIC Mulher
+#EXTINF:-1,SIC Mulher
 http://85.244.70.140:8000/play/a013
-
-
-
 #EXTINF:-1 tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="Portugal", [B][COLOR cyan]KodiTVR[/B][/COLOR]   RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8?isnpiration=10&rebase=on
 
