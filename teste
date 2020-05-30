@@ -1,7 +1,7 @@
 
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  SPORT TV+
+#EXTINF:-1,  SPORT TV+
 http://85.244.70.140:8000/play/a015
-#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Sport TV 1
+#EXTINF:-1,  Sport TV 1
 http://85.244.70.140:8000/play/a00r
 #EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Sport TV 2
 http://85.244.70.140:8000/play/a00m
